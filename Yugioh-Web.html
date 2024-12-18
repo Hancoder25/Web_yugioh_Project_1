@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-egde">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel = "stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet">
+
+
+
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <img src="https://cf.shopee.vn/file/vn-11134258-7r98o-lylx97r9vezl4e">
+    </header>
+
+<nav>
+    <div class="container">
+        <ul>
+            <li><a href="http://127.0.0.1:5500/Web-Main/Yugioh-Web.html"><img style="height: 50px;" src="image/logoshop.png" alt=""></a></li>
+            <li id="address-form"><a href="#">Địa chỉ<i class="fa-solid fa-sort-down"></i></a></li>
+                <div class="address-form">
+                    <div class="address-form-content">
+                        <h2>Chọn địa chỉ nhận hàng <span id="address-close">X Đóng</span></h2>
+                        <form action="">
+                            <p>Chọn địa chỉ nhận hàng<br>để biết chính xác thời gian giao hàng</p>
+                            <select name="" id="">
+                                <option value="#">--Chọn thành phố/tỉnh--</option>
+                                <option value="#">Phú Thọ</option>
+                            </select>
+                            <select name="" id="">
+                                <option value="#">--Chọn quận/huyện--</option>
+                                <option value="#">Cẩm Khê</option>
+                            </select>
+                            <select name="" id="">
+                                <option value="#">--Chọn phường/xã--</option>
+                                <option value="#">Thị trấn Cẩm Khê</option>
+                            </select>
+                            <input type="text" placeholder="Số nhà, tên đường">
+                            <button>Xác nhận</button>
+                        </form>
+                    </div>
+                </div> 
+            <li><a href="http://127.0.0.1:5500/Web-Main/Yugioh-Webtest.html"><button><i class="fa-solid fa-magnifying-glass"></i>Tìm Kiếm</button></a></li>               
+            <li id="cart"><a href=""></a><button><i class="fa-solid fa-cart-shopping"></i>Giỏ hàng</button></li>
+                <div class="cart-form">
+                    <div class="cart-form-content">
+                        <h2>Các sản phẩm<span id="cart-close">X Đóng</span></h2>
+    
+                        <p class="tit">Xác nhận mua các sản phẩm<br>---</p>
+                        <div id="cart-container" class="cart-container">
+
+                        </div>
+                        <p id="total-price">Tổng tiền: 0 VND</p> <!-- Thêm phần tử này để hiển thị tổng tiền -->
+                        <button id="confirm-btn">Xác nhận</button>
+
+                    </div>
+                </div>             
+            <li><a href="">Lịch sử đơn hàng</a></li>
+            <li><a href="">Luật chơi</a></li>
+            <li><a href="">Cộng đồng</a></li>
+            <li><a href="">Liên hệ và hỏi dáp</a></li>
+        </ul>
+    </div>
+</nav>
+
+<section class="menu_bar">
+    <div class="container">
+        <div class="meu_bar_content">
+            <ul>
+                <li><a href=""><i class="fa-solid fa-image-portrait"></i>Single Card<i style="margin-left: 8px;" class="fas fa-sort-down"></i></a>
+                    <div class="submenu">
+                        <ul>
+                            <li><a href="http://127.0.0.1:5500/Web-Trap/Yugioh-Web-Search-TrapCard.html">Trap Card</a></li>
+                            <li><a href="http://127.0.0.1:5500/Web-Spell/Yugioh-Web-Search-SpellCard.html">Spell Card</a></li>
+                            <li><a href="">Loại 3</a></li>
+                            <li><a href="">Loại 4</a></li>
+                            <li><a href="">Loại 5</a></li>
+                            <li><a href="">Loại 6</a></li>
+                            
+                        </ul>
+                    </div>
+                </li>
+                <li><a href=""><i class="material-icons">padding</i>Booster Packs<i style="margin-left: 8px;" class="fas fa-sort-down"></i></a>
+                    <div class="submenu">
+                        <ul>
+                            <li><a href="">Loại 1</a></li>
+                            <li><a href="">Loại 2</a></li>
+                            <li><a href="">Loại 3</a></li>
+                            <li><a href="">Loại 4</a></li>
+                            <li><a href="">Loại 5</a></li>
+                            <li><a href="">Loại 6</a></li>
+                            
+                            
+                        </ul>
+                    </div>
+                </li>
+                <li><a href=""><i class="fa-solid fa-box"></i></i>Structure Decks<i style="margin-left: 8px;" class="fas fa-sort-down"></i></a>
+                    <div class="submenu">
+                        <ul>
+                            <li><a href="">Loại 1</a></li>
+                            <li><a href="">Loại 2</a></li>
+                            <li><a href="">Loại 3</a></li>
+                            <li><a href="">Loại 4</a></li>
+                            <li><a href="">Loại 5</a></li>
+                            <li><a href="">Loại 6</a></li>
+                            
+                        </ul>
+                    </div>
+                </li>
+                <li><a href=""><i class="fa-solid fa-box-archive"></i>Deck Boxes<i style="margin-left: 8px;" class="fas fa-sort-down"></i></a>
+                    <div class="submenu">
+                        <ul>
+                            <li><a href="">Loại 1</a></li>
+                            <li><a href="">Loại 2</a></li>
+                            <li><a href="">Loại 3</a></li>
+                            <li><a href="">Loại 4</a></li>
+                            <li><a href="">Loại 5</a></li>
+                            <li><a href="">Loại 6</a></li>
+                            
+                        </ul>
+                    </div>
+                </li>
+                <li><a href=""><i class="material-symbols-outlined">Crop_Portrait</i>Sleeves<i style="margin-left: 8px;" class="fas fa-sort-down"></i></a>
+                    <div class="submenu">
+                        <ul>
+                            <li><a href="">Loại 1</a></li>
+                            <li><a href="">Loại 2</a></li>
+                            <li><a href="">Loại 3</a></li>
+                            <li><a href="">Loại 4</a></li>
+                            <li><a href="">Loại 5</a></li>
+                            <li><a href="">Loại 6</a></li>
+                            
+                        </ul>
+                    </div>
+                </li>
+                <li><a href=""><i class="material-icons">dashboard</i>Playmats<i style="margin-left: 8px;" class="fas fa-sort-down"></i></a>
+                    <div class="submenu">
+                        <ul>
+                            <li><a href="">Loại 1</a></li>
+                            <li><a href="">Loại 2</a></li>
+                            <li><a href="">Loại 3</a></li>
+                            <li><a href="">Loại 4</a></li>
+                            <li><a href="">Loại 5</a></li>
+                            <li><a href="">Loại 6</a></li>
+                            
+                            
+                        </ul>
+                    </div>
+                </li>
+                
+                <li><a href=""><i class="fa-solid fa-star-of-david"></i>Hàng sưu tầm<i style="margin-left: 8px;" class="fas fa-sort-down"></i></a>
+                    <div class="submenu">
+                        <ul>
+                            <li><a href="">Loại 1</a></li>
+                            <li><a href="">Loại 2</a></li>
+                            <li><a href="">Loại 3</a></li>
+                            <li><a href="">Loại 4</a></li>
+                            <li><a href="">Loại 5</a></li>
+                            <li><a href="">Loại 6</a></li>
+                            
+                        </ul>
+                    </div>
+                </li>
+                <li><a href=""><i class="fa-solid fa-share"></i>Bán bài</a></li>
+                
+            </ul>
+        </div>
+    </div>
+</section>
+<!-- -----------------------slide-------------------------------------------------------->
+ <section class="slider">
+    <div class="container">
+        <div class="slider-content">
+            <div class="slider-content-left">
+                <div class="slider-content-left-top-container">
+                    <div class="slider-content-left-top">
+                        <a href=""><img src="image/img_slider_top.jpg" alt=""></a>
+                        <a href=""><img src="image/img_slider_top.jpg" alt=""></a>
+                        <a href=""><img src="image/img_slider_top.jpg" alt=""></a>
+                        <a href=""><img src="image/img_slider_top.jpg" alt=""></a>
+                        <a href=""><img src="image/img_slider_top.jpg" alt=""></a>
+
+                    </div>
+                    <div class="slider-content-left-top-btn">
+                        <i class="fa-solid fa-chevron-left"></i>
+                        <i class="fa-solid fa-chevron-right"></i>
+                    </div>
+                </div>
+                <div class="slider-content-left-bottom">
+                    <li class="active">Tiêu đề 1</li>
+                    <li>Tiêu đề 2</li>
+                    <li>Tiêu đề 3</li>
+                    <li>Tiêu đề 4</li>
+                    <li>Tiêu đề 5</li>
+                </div>
+            </div>
+            <div class="slider-content-right">
+                <li><a href=""><img src="image/img1_slider_right.jpg" alt=""></a></li>
+                <li><a href=""><img src="image/img1_slider_right.jpg" alt=""></a></li>
+                <li><a href=""><img src="image/img1_slider_right.jpg" alt=""></a></li>
+                <li><a href=""><img src="image/img1_slider_right.jpg" alt=""></a></li>
+            </div>
+        </div>
+    </div>
+ </section>
+<section class="banner-one">
+    <div class="container">
+        <img src="image/banner 1.jpg" style="width: 100%; height: 100px;">
+    </div>
+</section>
+<!-----------------slider product---------------------------*/ -->
+<section class="slider-product-one">
+    <div class="container">
+        <div class="slider-product-one-content">
+            <div class="slider-product-one-content-title">
+                <h2>Sản Phẩm Nổi Bật!</h2>
+            </div>
+            <div class="slider-product-one-content-container">
+                <div class="slider-product-one-item-container">
+                    
+                    <div class="slider-product-one-content-items">
+                    </div>
+                </div>
+
+                <div class="slider-product-one-content-btn">
+                    <i class="fas fa-chevron-left fa-chevron-left2"></i>
+                    <i class="fas fa-chevron-right fa-chevron-right2"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+    
+</script>
+<!--<script>
+    fetch('http://127.0.0.1:5000/data') // URL API Flask
+    .then(response => response.json())
+    .then(data => {
+        const container = document.querySelector('.slider-product-one-item-container');
+        container.innerHTML = ''; // Xóa nội dung mặc định (nếu cần)
+
+        let groupHTML = ''; // Biến lưu nội dung nhóm
+        data.forEach((product, index) => {
+            product.rating = 5; // Gán mặc định đánh giá sao
+            const itemHTML = `
+                <div class="slider-product-one-content-item">
+                    <img src="${product.image_path}" alt="${product.image_name}">
+                    <div class="slider-product-one-content-item-text">
+                        <li><img src="image/icon1.jpg" alt="icon sản phẩm"><p>Hot nhất trong ngày</p></li>
+                        <li>${product.image_name}</li>
+                        <li><img src="${product.card_atti_icon}" alt="${product.card_atti}"> <span>${product.card_atti}</span></li>
+                        <li><img src="${product.card_type_icon}" alt="${product.card_type}"> <span>${product.card_type}</span></li>
+                        <li>${product.price}<sup>đ</sup></li>
+                        <li>Quà tặng</li>
+                        <li>
+                            ${generateStars(product.rating)}
+                        </li>
+                    </div>
+                </div>
+            `;
+
+            // Thêm thẻ item vào nhóm
+            groupHTML += itemHTML;
+
+            // Sau mỗi 5 sản phẩm hoặc là sản phẩm cuối cùng
+            if ((index + 1) % 5 === 0 || index === data.length - 1) {
+                const groupContainer = `
+                    <div class="slider-product-one-items">${groupHTML}</div>
+                `;
+                container.insertAdjacentHTML('beforeend', groupContainer);
+                groupHTML = ''; // Reset nhóm
+            }
+        });
+    })
+    .catch(error => console.error('Error fetching data:', error));
+
+// Hàm tạo HTML cho đánh giá sao
+function generateStars(rating) {
+    let starsHTML = '';
+    for (let i = 1; i <= 5; i++) {
+        if (i <= rating) {
+            starsHTML += '<i class="fa-solid fa-star"></i>';
+        } else {
+            starsHTML += '<i class="fa-regular fa-star"></i>';
+        }
+    }
+    return starsHTML;
+}
+
+</script>-->
+
+<script src="script.js"></script>
+</body>
+</html>
