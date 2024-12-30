@@ -29,24 +29,34 @@
                         <h2>Chọn địa chỉ nhận hàng <span id="address-close">X Đóng</span></h2>
                         <form action="">
                             <p>Chọn địa chỉ nhận hàng<br>để biết chính xác thời gian giao hàng</p>
-                            <select name="" id="">
-                                <option value="#">--Chọn thành phố/tỉnh--</option>
-                                <option value="#">Phú Thọ</option>
+                            <select id="province">
+                                <option value="">--Chọn thành phố/tỉnh--</option>
+                                <option value="Phú Thọ">Phú Thọ</option>
+                                <option value="Hà Nội">Hà Nội</option>
+                                <option value="Hồ Chí Minh">Hồ Chí Minh</option>
                             </select>
-                            <select name="" id="">
-                                <option value="#">--Chọn quận/huyện--</option>
-                                <option value="#">Cẩm Khê</option>
+                            <select id="district">
+                                <option value="">--Chọn quận/huyện--</option>
+                                <option value="Cẩm Khê">Cẩm Khê</option>
+                                <option value="Ba Đình">Ba Đình</option>
+                                <option value="Thủ Đức">Thủ Đức</option>
                             </select>
-                            <select name="" id="">
-                                <option value="#">--Chọn phường/xã--</option>
-                                <option value="#">Thị trấn Cẩm Khê</option>
+                            <select id="ward">
+                                <option value="">--Chọn phường/xã--</option>
+                                <option value="Thị trấn Cẩm Khê">Thị trấn Cẩm Khê</option>
+                                <option value="Phường Kim Mã">Phường Kim Mã</option>
+                                <option value="Phường Linh Trung">Phường Linh Trung</option>
                             </select>
-                            <input type="text" placeholder="Số nhà, tên đường">
-                            <button>Xác nhận</button>
+                            <input type="text" id="house" placeholder="Số nhà, tên đường">
+                            <button id="confirm-adr" type="button">Xác nhận</button>
                         </form>
+                        
                     </div>
                 </div> 
-            <li><a href="http://127.0.0.1:5500/Web-Main/Yugioh-Webtest.html"><button><i class="fa-solid fa-magnifying-glass"></i>Tìm Kiếm</button></a></li>               
+            <li>
+                <input type="text" id="searchInput" placeholder="Nhập tên lá bài...">
+                <i class="fa-solid fa-magnifying-glass" id="searchButton"></i>
+            </li>              
             <li id="cart"><a href=""></a><button><i class="fa-solid fa-cart-shopping"></i>Giỏ hàng</button></li>
                 <div class="cart-form">
                     <div class="cart-form-content">
@@ -61,8 +71,18 @@
 
                     </div>
                 </div>             
-            <li><a href="">Lịch sử đơn hàng</a></li>
-            <li><a href="">Luật chơi</a></li>
+            <li><button id="order-history-btn">Lịch sử đơn hàng</button></li>
+                
+                <section id="order-history">
+                    <div class="history-content">
+                        <button class="close-btn">X Đóng</button>
+                        <h2>Lịch Sử Đơn Hàng</h2>
+                        <div id="order-history-container"></div>
+                    </div>
+                </section>
+                
+                           
+            <li><a href="https://www.youtube.com/playlist?list=PL_C7TzOfm0F0DP_S_QwJVArshCLelBQNs">Luật chơi</a></li>
             <li><a href="">Cộng đồng</a></li>
             <li><a href="">Liên hệ và hỏi dáp</a></li>
         </ul>
@@ -73,15 +93,15 @@
     <div class="container">
         <div class="meu_bar_content">
             <ul>
-                <li><a href=""><i class="fa-solid fa-image-portrait"></i>Single Card<i style="margin-left: 8px;" class="fas fa-sort-down"></i></a>
+                <li><a href=""><i class="fa-solid fa-image-portrait"></i>Rarity<i style="margin-left: 8px;" class="fas fa-sort-down"></i></a>
                     <div class="submenu">
                         <ul>
-                            <li><a href="http://127.0.0.1:5500/Web-Trap/Yugioh-Web-Search-TrapCard.html">Trap Card</a></li>
-                            <li><a href="http://127.0.0.1:5500/Web-Spell/Yugioh-Web-Search-SpellCard.html">Spell Card</a></li>
-                            <li><a href="">Loại 3</a></li>
-                            <li><a href="">Loại 4</a></li>
-                            <li><a href="">Loại 5</a></li>
-                            <li><a href="">Loại 6</a></li>
+                            <li id="Rare"><span>Rare</span></li>
+                            <li id="Ultra Rare"><span>Ultra Rare</span></li>
+                            <li id="Super Rare"><span>Super Rare</span></li>
+                            <li id="Quarter Century Secret Rare"><span>Quarter Century Secret Rare</span></li>
+                            <li id="Common / Short Print"><span>Common / Short Print</span></li>
+                            <li id="Platinum Secret Rare"><span>Platinum Secret Rare</span></li>
                             
                         </ul>
                     </div>
@@ -236,6 +256,8 @@
         </div>
     </div>
 </section>
+
+
 
 <script>
     
