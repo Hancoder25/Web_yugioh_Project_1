@@ -1,0 +1,2922 @@
+[
+  {
+    "card_name": "Armored Shark",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/584243_in_200x200.jpg",
+    "price": "$0.47",
+    "price_market": "$0.10",
+    "rerity": "Common / Short Print",
+    "set_name": "Rage of the Abyss"
+  },
+  {
+    "card_name": "Kuibelt the Blade Dragon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579700_in_200x200.jpg",
+    "price": "$2.47",
+    "price_market": "$0.33",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Invocation (Alternate Art)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579534_in_200x200.jpg",
+    "price": "$0.08",
+    "price_market": "$1.99",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Six Strike - Double Assault",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/584321_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.12",
+    "rerity": "Common / Short Print",
+    "set_name": "Rage of the Abyss"
+  },
+  {
+    "card_name": "Simultaneous Equation Cannons",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/546866_in_200x200.jpg",
+    "price": "$0.04",
+    "price_market": "$0.11",
+    "rerity": "Common / Short Print",
+    "set_name": "Legacy of Destruction"
+  },
+  {
+    "card_name": "Mekk-Knight Red Moon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/485602_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.09",
+    "rerity": "Rare",
+    "set_name": "Maze of Memories"
+  },
+  {
+    "card_name": "Pot of Duality",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/551241_in_200x200.jpg",
+    "price": "$0.25",
+    "price_market": "$0.29",
+    "rerity": "Super Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Atlantean Dragoons (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592208_in_200x200.jpg",
+    "price": "$0.39",
+    "price_market": "$0.08",
+    "rerity": "Ultra Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Mystical Space Typhoon (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/551179_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.26",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Salamangreat Circle ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592636_in_200x200.jpg",
+    "price": "$0.14",
+    "price_market": "$0.09",
+    "rerity": "Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Obliterate!!! Blaze",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/559243_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.21",
+    "rerity": "Super Rare",
+    "set_name": "The Infinite Forbidden"
+  },
+  {
+    "card_name": "Live Twin Lil-la Treat",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/284897_in_200x200.jpg",
+    "price": "$0.19",
+    "price_market": "$0.12",
+    "rerity": "Super Rare",
+    "set_name": "2022 Tin of the Pharaoh's Gods"
+  },
+  {
+    "card_name": "Centur-Ion Legatia",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579619_in_200x200.jpg",
+    "price": "$2.25",
+    "price_market": "$2.10",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Cursed Seal of the Forbidden Spell (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592709_in_200x200.jpg",
+    "price": "$0.11",
+    "price_market": "$0.07",
+    "rerity": "Ultra Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Schuberta the Melodious Maestra ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592405_in_200x200.jpg",
+    "price": "$2.78",
+    "price_market": "$2.41",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Knightmare Goblin",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/166352_in_200x200.jpg",
+    "price": "$7.35",
+    "price_market": "$7.01",
+    "rerity": "Ultra Rare",
+    "set_name": "Flames of Destruction"
+  },
+  {
+    "card_name": "Mirror Swordknight",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579682_in_200x200.jpg",
+    "price": "$0.01",
+    "price_market": "$0.35",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Tenyi Spirit - Vishuda",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/599904_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.07",
+    "rerity": "Rare",
+    "set_name": "Crossover Breakers"
+  },
+  {
+    "card_name": "Link Disciple",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/186960_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.38",
+    "rerity": "Ultra Rare",
+    "set_name": "Duel Power"
+  },
+  {
+    "card_name": "Salamandra, the Flying Flame Dragon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/532202_in_200x200.jpg",
+    "price": "$0.35",
+    "price_market": "$0.25",
+    "rerity": "Super Rare",
+    "set_name": "Maze of Millennia"
+  },
+  {
+    "card_name": "Rainbow Bridge of Salvation",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/285212_in_200x200.jpg",
+    "price": "$1.10",
+    "price_market": "$0.56",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "2022 Tin of the Pharaoh's Gods"
+  },
+  {
+    "card_name": "Ancient Gear Fusion",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/254443_in_200x200.jpg",
+    "price": "$2.77",
+    "price_market": "$0.90",
+    "rerity": "Rare",
+    "set_name": "Maximum Gold: El Dorado"
+  },
+  {
+    "card_name": "Vicious Astraloud",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579557_in_200x200.jpg",
+    "price": "$0.77",
+    "price_market": "$0.59",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Left Arm Offering",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/222783_in_200x200.jpg",
+    "price": "$0.26",
+    "price_market": "$0.19",
+    "rerity": "Common / Short Print",
+    "set_name": "Legendary Duelists: Rage of Ra"
+  },
+  {
+    "card_name": "Sinful Spoils of Betrayal - Silvera",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579716_in_200x200.jpg",
+    "price": "$0.27",
+    "price_market": "$0.18",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Galatea, the Orcust Automaton ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592478_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.23",
+    "rerity": "Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Gold Sarcophagus (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/551207_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.23",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Foolish Burial",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/123596_in_200x200.jpg",
+    "price": "$0.57",
+    "price_market": "$0.25",
+    "rerity": "Common / Short Print",
+    "set_name": "Legendary Decks II"
+  },
+  {
+    "card_name": "Fusion Duplication",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579675_in_200x200.jpg",
+    "price": "$0.99",
+    "price_market": "$0.31",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Tri-Brigade Arms Bucephalus II",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579649_in_200x200.jpg",
+    "price": "$0.25",
+    "price_market": "$0.22",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Clockwork Night (PUR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592674_in_200x200.jpg",
+    "price": "$0.50",
+    "price_market": "$0.50",
+    "rerity": "Prismatic Ultimate Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Ghost Sister & Spooky Dogwood (Alternate Art) ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/594074_in_200x200.jpg",
+    "price": "$12.89",
+    "price_market": "$11.83",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Ghost Sister & Spooky Dogwood (Alternate Art) ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/594074_in_200x200.jpg",
+    "price": "$12.89",
+    "price_market": "$11.83",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Noh-P.U.N.K. Ze Amin",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/500441_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.22",
+    "rerity": "Ultra Rare",
+    "set_name": "Battles of Legend: Monstrous Revenge"
+  },
+  {
+    "card_name": "Centur-Ion Trudea",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579618_in_200x200.jpg",
+    "price": "$10.25",
+    "price_market": "$9.60",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Fabled Lurrie ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592183_in_200x200.jpg",
+    "price": "$8.97",
+    "price_market": "$7.31",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Court of Justice",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/485630_in_200x200.jpg",
+    "price": "$0.03",
+    "price_market": "$0.07",
+    "rerity": "Rare",
+    "set_name": "Maze of Memories"
+  },
+  {
+    "card_name": "Blackwing - Elphin the Raven",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/485581_in_200x200.jpg",
+    "price": "$0.04",
+    "price_market": "$0.08",
+    "rerity": "Rare",
+    "set_name": "Maze of Memories"
+  },
+  {
+    "card_name": "Danger! Bigfoot! (Alternate Art) ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592300_in_200x200.jpg",
+    "price": "$0.25",
+    "price_market": "$0.21",
+    "rerity": "Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Mausoleum of the Emperor ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592900_in_200x200.jpg",
+    "price": "$0.30",
+    "price_market": "$0.30",
+    "rerity": "Platinum Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Sinful Spoils of Doom - Rciela",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579713_in_200x200.jpg",
+    "price": "$0.50",
+    "price_market": "$0.19",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Raigeki",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/483720_in_200x200.jpg",
+    "price": "$2.77",
+    "price_market": "$2.74",
+    "rerity": "Common / Short Print",
+    "set_name": "Structure Deck: Beware of Traptrix"
+  },
+  {
+    "card_name": "Bystial Magnamhut",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/450156_in_200x200.jpg",
+    "price": "$6.39",
+    "price_market": "$2.70",
+    "rerity": "Super Rare",
+    "set_name": "Darkwing Blast"
+  },
+  {
+    "card_name": "Polymerization (A) (Alternate Art)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/593866_in_200x200.jpg",
+    "price": "$0.23",
+    "price_market": "$0.27",
+    "rerity": "Super Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Bloom Harmonist the Melodious Composer",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/210228_in_200x200.jpg",
+    "price": "$0.72",
+    "price_market": "$0.74",
+    "rerity": "Ultra Rare",
+    "set_name": "Duel Overload"
+  },
+  {
+    "card_name": "Triple Tactics Talent",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/249086_in_200x200.jpg",
+    "price": "$16.49",
+    "price_market": "$10.26",
+    "rerity": "Ultra Rare",
+    "set_name": "2021 Tin of Ancient Battles"
+  },
+  {
+    "card_name": "Droll & Lock Bird (Alternate Art) ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/550886_in_200x200.jpg",
+    "price": "$2.00",
+    "price_market": "$1.53",
+    "rerity": "Secret Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Laundry Dragonmaid ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592317_in_200x200.jpg",
+    "price": "$0.10",
+    "price_market": "$0.19",
+    "rerity": "Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Cosmic Cyclone ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/551271_in_200x200.jpg",
+    "price": "$1.50",
+    "price_market": "$1.21",
+    "rerity": "Secret Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Ultimate Flame Swordsman",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/532204_in_200x200.jpg",
+    "price": "$2.99",
+    "price_market": "$0.68",
+    "rerity": "Super Rare",
+    "set_name": "Maze of Millennia"
+  },
+  {
+    "card_name": "Garura, Wings of Resonant Life (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/551011_in_200x200.jpg",
+    "price": "$0.30",
+    "price_market": "$0.32",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Number 4: Stealth Kragen",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/256320_in_200x200.jpg",
+    "price": "$5.66",
+    "price_market": "$2.36",
+    "rerity": "Secret Rare",
+    "set_name": "Brothers of Legend"
+  },
+  {
+    "card_name": "Ukiyoe-P.U.N.K. Sharakusai",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/260713_in_200x200.jpg",
+    "price": "$0.06",
+    "price_market": "$0.07",
+    "rerity": "Rare",
+    "set_name": "The Grand Creators"
+  },
+  {
+    "card_name": "Droll & Lock Bird",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/282359_in_200x200.jpg",
+    "price": "$2.97",
+    "price_market": "$2.16",
+    "rerity": "Rare",
+    "set_name": "Tactical Masters"
+  },
+  {
+    "card_name": "Tri-Brigade Ferrijit the Barren Blossom",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/248972_in_200x200.jpg",
+    "price": "$1.38",
+    "price_market": "$1.22",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "2021 Tin of Ancient Battles"
+  },
+  {
+    "card_name": "Red-Eyes Darkness Metal Dragon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/267999_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.20",
+    "rerity": "Common / Short Print",
+    "set_name": "Structure Deck: Albaz Strike"
+  },
+  {
+    "card_name": "Dark Ruler No More",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/285224_in_200x200.jpg",
+    "price": "$5.99",
+    "price_market": "$0.32",
+    "rerity": "Ultra Rare",
+    "set_name": "2022 Tin of the Pharaoh's Gods"
+  },
+  {
+    "card_name": "Garunix Eternity, Hyang of the Fire Kings",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/528496_in_200x200.jpg",
+    "price": "$0.26",
+    "price_market": "$0.24",
+    "rerity": "Ultra Rare",
+    "set_name": "Structure Deck: Fire Kings"
+  },
+  {
+    "card_name": "Necroquip Princess",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/559277_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.07",
+    "rerity": "Common / Short Print",
+    "set_name": "The Infinite Forbidden"
+  },
+  {
+    "card_name": "Battle Shogun of the Six Samurai",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/254424_in_200x200.jpg",
+    "price": "$0.31",
+    "price_market": "$0.39",
+    "rerity": "Rare",
+    "set_name": "Maximum Gold: El Dorado"
+  },
+  {
+    "card_name": "Asset Mountis",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579722_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.10",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "The Winged Dragon of Ra - Sphere Mode (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/524713_in_200x200.jpg",
+    "price": "$0.50",
+    "price_market": "$0.36",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Rarity Collection"
+  },
+  {
+    "card_name": "Elemental HERO Flame Wingman - Infernal Rage",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/500340_in_200x200.jpg",
+    "price": "$8.41",
+    "price_market": "$4.51",
+    "rerity": "Secret Rare",
+    "set_name": "Battles of Legend: Monstrous Revenge"
+  },
+  {
+    "card_name": "Golem that Guards the Millennium Treasures",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/559175_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.12",
+    "rerity": "Common / Short Print",
+    "set_name": "The Infinite Forbidden"
+  },
+  {
+    "card_name": "Cyberdark Realm",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/250376_in_200x200.jpg",
+    "price": "$0.16",
+    "price_market": "$0.11",
+    "rerity": "Ultra Rare",
+    "set_name": "Structure Deck: Cyber Strike"
+  },
+  {
+    "card_name": "Ohime the Manifested Mikanko",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579609_in_200x200.jpg",
+    "price": "$4.99",
+    "price_market": "$1.77",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Red-Eyes Soul",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579734_in_200x200.jpg",
+    "price": "$7.99",
+    "price_market": "$0.71",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "This Creepy Little Punk",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/485541_in_200x200.jpg",
+    "price": "$0.04",
+    "price_market": "$0.08",
+    "rerity": "Rare",
+    "set_name": "Maze of Memories"
+  },
+  {
+    "card_name": "Garura, Wings of Resonant Life (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/551011_in_200x200.jpg",
+    "price": "$0.30",
+    "price_market": "$0.32",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Invoked Mechaba (Alternate Art)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579533_in_200x200.jpg",
+    "price": "$3.50",
+    "price_market": "$1.40",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Forbidden Chalice",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/275765_in_200x200.jpg",
+    "price": "$0.55",
+    "price_market": "$1.06",
+    "rerity": "Super Rare",
+    "set_name": "OTS Tournament Pack 19"
+  },
+  {
+    "card_name": "Sinful Spoils of Doom - Rciela",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579713_in_200x200.jpg",
+    "price": "$0.50",
+    "price_market": "$0.19",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Palladium Oracle Mana",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/197081_in_200x200.jpg",
+    "price": "$3.99",
+    "price_market": "$0.98",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "2019 Gold Sarcophagus Tin"
+  },
+  {
+    "card_name": "Palm Ryzeal",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/599844_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.11",
+    "rerity": "Rare",
+    "set_name": "Crossover Breakers"
+  },
+  {
+    "card_name": "Chimera the King of Phantom Beasts",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579569_in_200x200.jpg",
+    "price": "$1.97",
+    "price_market": "$1.25",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Upstart Goblin",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/564203_in_200x200.jpg",
+    "price": "$0.47",
+    "price_market": "$0.95",
+    "rerity": "Common / Short Print",
+    "set_name": "Retro Pack (2020 Date Reprint)"
+  },
+  {
+    "card_name": "Junk Warrior",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579605_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.28",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Ryko, Lightsworn Hunter (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/550864_in_200x200.jpg",
+    "price": "$16.97",
+    "price_market": "$0.20",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Triple Tactics Talent",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/451070_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$10.96",
+    "rerity": "Ultra Rare",
+    "set_name": "Magnificent Mavens"
+  },
+  {
+    "card_name": "Mad Hacker",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/262288_in_200x200.jpg",
+    "price": "$0.10",
+    "price_market": "$0.11",
+    "rerity": "Common / Short Print",
+    "set_name": "Battle of Chaos"
+  },
+  {
+    "card_name": "Flowering Etoile the Melodious Magnificat",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/546811_in_200x200.jpg",
+    "price": "$1.99",
+    "price_market": "$1.76",
+    "rerity": "Super Rare",
+    "set_name": "Legacy of Destruction"
+  },
+  {
+    "card_name": "Underworld Goddess of the Closed World (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/551158_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.27",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Garura, Wings of Resonant Life",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/514735_in_200x200.jpg",
+    "price": "$1.47",
+    "price_market": "$1.13",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack"
+  },
+  {
+    "card_name": "Starliege Photon Blast Dragon (Green)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/230806_in_200x200.jpg",
+    "price": "$18.89",
+    "price_market": "$6.15",
+    "rerity": "Ultra Rare",
+    "set_name": "Legendary Duelists: Season 2"
+  },
+  {
+    "card_name": "Theia, the Primal Being",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579622_in_200x200.jpg",
+    "price": "$2.47",
+    "price_market": "$1.72",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Pot of Duality (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/551242_in_200x200.jpg",
+    "price": "$0.47",
+    "price_market": "$0.33",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Nemeses Flag (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592341_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.16",
+    "rerity": "Ultra Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Foolish Burial",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/551185_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.28",
+    "rerity": "Super Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Secrets of Dark Magic",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/276158_in_200x200.jpg",
+    "price": "$0.99",
+    "price_market": "$0.35",
+    "rerity": "Common / Short Print",
+    "set_name": "Legendary Duelists: Season 3"
+  },
+  {
+    "card_name": "Transcode Talker",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/170224_in_200x200.jpg",
+    "price": "$19.88",
+    "price_market": "$3.79",
+    "rerity": "Ultra Rare",
+    "set_name": "Starter Deck: Codebreaker"
+  },
+  {
+    "card_name": "Sky Striker Mecha - Hornet Drones",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/197555_in_200x200.jpg",
+    "price": "$3.90",
+    "price_market": "$1.55",
+    "rerity": "Common / Short Print",
+    "set_name": "2019 Gold Sarcophagus Tin Mega Pack"
+  },
+  {
+    "card_name": "Infinite Impermanence ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/524728_in_200x200.jpg",
+    "price": "$10.81",
+    "price_market": "$11.08",
+    "rerity": "Secret Rare",
+    "set_name": "25th Anniversary Rarity Collection"
+  },
+  {
+    "card_name": "Time Thief Redoer",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/599855_in_200x200.jpg",
+    "price": "$0.15",
+    "price_market": "$0.11",
+    "rerity": "Rare",
+    "set_name": "Crossover Breakers"
+  },
+  {
+    "card_name": "True King Lithosagym, the Disaster",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/497925_in_200x200.jpg",
+    "price": "$0.09",
+    "price_market": "$0.12",
+    "rerity": "Rare",
+    "set_name": "Wild Survivors"
+  },
+  {
+    "card_name": "Georgius, Swordman of the Ice Barrier",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/554856_in_200x200.jpg",
+    "price": "$1.02",
+    "price_market": "$1.46",
+    "rerity": "Secret Rare",
+    "set_name": "Battles of Legend: Terminal Revenge"
+  },
+  {
+    "card_name": "Inzektor Centipede",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/260759_in_200x200.jpg",
+    "price": "$0.05",
+    "price_market": "$0.04",
+    "rerity": "Rare",
+    "set_name": "The Grand Creators"
+  },
+  {
+    "card_name": "Instant Fusion",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/451060_in_200x200.jpg",
+    "price": "$1.81",
+    "price_market": "$0.66",
+    "rerity": "Ultra Rare",
+    "set_name": "Magnificent Mavens"
+  },
+  {
+    "card_name": "Blue-Eyes Jet Dragon ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/550963_in_200x200.jpg",
+    "price": "$0.45",
+    "price_market": "$0.42",
+    "rerity": "Secret Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Allure of Darkness (PUR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592554_in_200x200.jpg",
+    "price": "$0.30",
+    "price_market": "$3.67",
+    "rerity": "Prismatic Ultimate Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Vampire Fascinator",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/262313_in_200x200.jpg",
+    "price": "$0.88",
+    "price_market": "$0.32",
+    "rerity": "Super Rare",
+    "set_name": "Battle of Chaos"
+  },
+  {
+    "card_name": "Dinomorphia Rexterm",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/514600_in_200x200.jpg",
+    "price": "$0.57",
+    "price_market": "$0.79",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack"
+  },
+  {
+    "card_name": "Kashtira Ogre",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/514791_in_200x200.jpg",
+    "price": "$0.10",
+    "price_market": "$0.39",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack"
+  },
+  {
+    "card_name": "Mecha Phantom Beast Dracossack (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592445_in_200x200.jpg",
+    "price": "$0.19",
+    "price_market": "$0.18",
+    "rerity": "Ultra Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Dinomorphia Intact",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579674_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.17",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Nightmare Apprentice",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/546802_in_200x200.jpg",
+    "price": "$35.86",
+    "price_market": "$23.34",
+    "rerity": "Secret Rare",
+    "set_name": "Legacy of Destruction"
+  },
+  {
+    "card_name": "Ritual Beast Inheritance",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/554873_in_200x200.jpg",
+    "price": "$2.91",
+    "price_market": "$2.84",
+    "rerity": "Secret Rare",
+    "set_name": "Battles of Legend: Terminal Revenge"
+  },
+  {
+    "card_name": "Snake-Eyes Flamberge Dragon (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592402_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.12",
+    "rerity": "Ultra Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Full-Armored Xyz",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579715_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.21",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Magician of Dark Illusion",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/276212_in_200x200.jpg",
+    "price": "$0.15",
+    "price_market": "$0.21",
+    "rerity": "Common / Short Print",
+    "set_name": "Legendary Duelists: Season 3"
+  },
+  {
+    "card_name": "Terraforming",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/500509_in_200x200.jpg",
+    "price": "$1.95",
+    "price_market": "$2.53",
+    "rerity": "Secret Rare",
+    "set_name": "Battles of Legend: Monstrous Revenge"
+  },
+  {
+    "card_name": "Evenly Matched",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/483741_in_200x200.jpg",
+    "price": "$0.50",
+    "price_market": "$1.23",
+    "rerity": "Super Rare",
+    "set_name": "Structure Deck: Beware of Traptrix"
+  },
+  {
+    "card_name": "Small World (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/524508_in_200x200.jpg",
+    "price": "$7.27",
+    "price_market": "$0.36",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Rarity Collection"
+  },
+  {
+    "card_name": "Effect Veiler",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/199580_in_200x200.jpg",
+    "price": "$0.25",
+    "price_market": "$2.98",
+    "rerity": "Ultra Rare",
+    "set_name": "Duel Devastator"
+  },
+  {
+    "card_name": "Skyscraper 2 - Hero City ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592916_in_200x200.jpg",
+    "price": "$8.58",
+    "price_market": "$0.31",
+    "rerity": "Platinum Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Bystial Saronir",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/514772_in_200x200.jpg",
+    "price": "$0.35",
+    "price_market": "$5.93",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack"
+  },
+  {
+    "card_name": "Runick Slumber",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/514765_in_200x200.jpg",
+    "price": "$0.57",
+    "price_market": "$0.38",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack"
+  },
+  {
+    "card_name": "Moon of the Closed Heaven",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/587248_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$2.48",
+    "rerity": "Super Rare",
+    "set_name": "OTS Tournament Pack 26"
+  },
+  {
+    "card_name": "Trap Trick (PUR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592722_in_200x200.jpg",
+    "price": "$9.97",
+    "price_market": "$0.48",
+    "rerity": "Prismatic Ultimate Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Ghost Reaper & Winter Cherries (Alternate Art) (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592264_in_200x200.jpg",
+    "price": "$0.89",
+    "price_market": "$0.14",
+    "rerity": "Ultra Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Chicken Game",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/587249_in_200x200.jpg",
+    "price": "$14.94",
+    "price_market": "$1.67",
+    "rerity": "Super Rare",
+    "set_name": "OTS Tournament Pack 26"
+  },
+  {
+    "card_name": "Artifact Sanctum",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/136869_in_200x200.jpg",
+    "price": "$0.25",
+    "price_market": "$7.03",
+    "rerity": "Secret Rare",
+    "set_name": "Battles of Legend: Light's Revenge"
+  },
+  {
+    "card_name": "Girsu, the Orcust Mekk-Knight ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592350_in_200x200.jpg",
+    "price": "$2.47",
+    "price_market": "$0.81",
+    "rerity": "Platinum Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Ostinato ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592621_in_200x200.jpg",
+    "price": "$2.25",
+    "price_market": "$8.87",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Chaos Hunter (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/550892_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.17",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Exosister Martha",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/514678_in_200x200.jpg",
+    "price": "$2.53",
+    "price_market": "$2.23",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack"
+  },
+  {
+    "card_name": "Dharc the Dark Charmer, Gloomy (PUR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592508_in_200x200.jpg",
+    "price": "$0.45",
+    "price_market": "$0.52",
+    "rerity": "Prismatic Ultimate Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Wings of Light",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/520492_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.34",
+    "rerity": "Super Rare",
+    "set_name": "Age of Overlord"
+  },
+  {
+    "card_name": "Armed Protector Dragon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/477644_in_200x200.jpg",
+    "price": "$0.10",
+    "price_market": "$0.08",
+    "rerity": "Rare",
+    "set_name": "Amazing Defenders"
+  },
+  {
+    "card_name": "Fire King Sanctuary",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/528492_in_200x200.jpg",
+    "price": "$0.23",
+    "price_market": "$0.23",
+    "rerity": "Ultra Rare",
+    "set_name": "Structure Deck: Fire Kings"
+  },
+  {
+    "card_name": "Unchained Soul of Shyama",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579690_in_200x200.jpg",
+    "price": "$0.27",
+    "price_market": "$0.23",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Swap Frog (PCR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592195_in_200x200.jpg",
+    "price": "$4.99",
+    "price_market": "$0.91",
+    "rerity": "Prismatic Collector's Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Epurrely Noir",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/504836_in_200x200.jpg",
+    "price": "$0.25",
+    "price_market": "$5.87",
+    "rerity": "Ultra Rare",
+    "set_name": "Duelist Nexus"
+  },
+  {
+    "card_name": "Duel Academy (card) ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/593158_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.25",
+    "rerity": "Platinum Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Salamangreat Almiraj",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/509984_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.19",
+    "rerity": "Rare",
+    "set_name": "Legendary Duelists: Soulburning Volcano"
+  },
+  {
+    "card_name": "Book of Moon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/551192_in_200x200.jpg",
+    "price": "$0.15",
+    "price_market": "$0.25",
+    "rerity": "Super Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Monk of the Tenyi (SR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/600402_in_200x200.jpg",
+    "price": "$1.97",
+    "price_market": "$0.15",
+    "rerity": "Super Rare",
+    "set_name": "Crossover Breakers"
+  },
+  {
+    "card_name": "Superdreadnought Rail Cannon Juggernaut Liebe ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592456_in_200x200.jpg",
+    "price": "$0.97",
+    "price_market": "$1.87",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Ghost Sister & Spooky Dogwood (Alternate Art) (PUR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592312_in_200x200.jpg",
+    "price": "$0.10",
+    "price_market": "$0.88",
+    "rerity": "Prismatic Ultimate Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Ancient Gear Commander",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/546776_in_200x200.jpg",
+    "price": "$0.40",
+    "price_market": "$0.13",
+    "rerity": "Common / Short Print",
+    "set_name": "Legacy of Destruction"
+  },
+  {
+    "card_name": "Ghost Reaper & Winter Cherries (Alternate Art) (PCR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592258_in_200x200.jpg",
+    "price": "$1.25",
+    "price_market": "$0.47",
+    "rerity": "Prismatic Collector's Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Aussa the Earth Charmer, Immovable",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/249001_in_200x200.jpg",
+    "price": "$1.95",
+    "price_market": "$0.32",
+    "rerity": "Ultra Rare",
+    "set_name": "2021 Tin of Ancient Battles"
+  },
+  {
+    "card_name": "Accesscode Talker ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/551152_in_200x200.jpg",
+    "price": "$19.99",
+    "price_market": "$1.81",
+    "rerity": "Secret Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Upstart Goblin",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/211649_in_200x200.jpg",
+    "price": "$3.99",
+    "price_market": "$2.70",
+    "rerity": "Super Rare",
+    "set_name": "Secret Slayers"
+  },
+  {
+    "card_name": "Glow-Up Bloom",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/269517_in_200x200.jpg",
+    "price": "$0.25",
+    "price_market": "$0.53",
+    "rerity": "Ultra Rare",
+    "set_name": "Ghosts From the Past: The 2nd Haunting"
+  },
+  {
+    "card_name": "Trap Dustshoot",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/22533_in_200x200.jpg",
+    "price": "$0.97",
+    "price_market": "$13.98",
+    "rerity": "Common / Short Print",
+    "set_name": "Pharaonic Guardian"
+  },
+  {
+    "card_name": "Dimension Shifter",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/197089_in_200x200.jpg",
+    "price": "$3.26",
+    "price_market": "$3.87",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "2019 Gold Sarcophagus Tin"
+  },
+  {
+    "card_name": "Fateful Adventure",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/514830_in_200x200.jpg",
+    "price": "$1.25",
+    "price_market": "$1.24",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack"
+  },
+  {
+    "card_name": "Lord of the Heavenly Prison (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592376_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.16",
+    "rerity": "Ultra Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "The Breaking Ruin God",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/285218_in_200x200.jpg",
+    "price": "$0.19",
+    "price_market": "$0.18",
+    "rerity": "Ultra Rare",
+    "set_name": "2022 Tin of the Pharaoh's Gods"
+  },
+  {
+    "card_name": "Vulmina, Statue of the Sacred Dragon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/559274_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.09",
+    "rerity": "Common / Short Print",
+    "set_name": "The Infinite Forbidden"
+  },
+  {
+    "card_name": "Snake-Eyes Diabellstar",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/546779_in_200x200.jpg",
+    "price": "$4.99",
+    "price_market": "$5.04",
+    "rerity": "Ultra Rare",
+    "set_name": "Legacy of Destruction"
+  },
+  {
+    "card_name": "Magical Musketeer Calamity",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/152411_in_200x200.jpg",
+    "price": "$1.19",
+    "price_market": "$1.51",
+    "rerity": "Super Rare",
+    "set_name": "Spirit Warriors"
+  },
+  {
+    "card_name": "Breakthrough Skill",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/600127_in_200x200.jpg",
+    "price": "$6.97",
+    "price_market": "$0.63",
+    "rerity": "Common / Short Print",
+    "set_name": "Speed Duel: Battle City Finals"
+  },
+  {
+    "card_name": "Atlantean Dragoons ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592204_in_200x200.jpg",
+    "price": "$20.97",
+    "price_market": "$5.05",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Toadally Awesome ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592448_in_200x200.jpg",
+    "price": "$0.60",
+    "price_market": "$18.78",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Slifer the Sky Dragon (25th Anniversary Edition)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/491805_in_200x200.jpg",
+    "price": "$6.28",
+    "price_market": "$0.58",
+    "rerity": "Ultra Rare",
+    "set_name": "Legendary Collection: 25th Anniversary Edition"
+  },
+  {
+    "card_name": "Dimensional Prison",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/227584_in_200x200.jpg",
+    "price": "$6.45",
+    "price_market": "$4.75",
+    "rerity": "Rare",
+    "set_name": "Maximum Gold"
+  },
+  {
+    "card_name": "Effect Veiler",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/224982_in_200x200.jpg",
+    "price": "$0.21",
+    "price_market": "$3.09",
+    "rerity": "Common / Short Print",
+    "set_name": "Structure Deck: Spirit Charmers"
+  },
+  {
+    "card_name": "Artifact Lancea",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/227422_in_200x200.jpg",
+    "price": "$3.68",
+    "price_market": "$0.30",
+    "rerity": "Premium Gold Rare",
+    "set_name": "Maximum Gold"
+  },
+  {
+    "card_name": "PSY-Framegear Delta",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/555083_in_200x200.jpg",
+    "price": "$5.95",
+    "price_market": "$4.78",
+    "rerity": "Super Rare",
+    "set_name": "OTS Tournament Pack 25"
+  },
+  {
+    "card_name": "Welcome Labrynth",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/514723_in_200x200.jpg",
+    "price": "$43.99",
+    "price_market": "$4.11",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack"
+  },
+  {
+    "card_name": "Salamangreat Raging Phoenix",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/509822_in_200x200.jpg",
+    "price": "$4.97",
+    "price_market": "$19.14",
+    "rerity": "Ultra Rare",
+    "set_name": "Legendary Duelists: Soulburning Volcano"
+  },
+  {
+    "card_name": "Super Polymerization (PCR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592536_in_200x200.jpg",
+    "price": "$9.65",
+    "price_market": "$3.15",
+    "rerity": "Prismatic Collector's Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Effect Veiler ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/524606_in_200x200.jpg",
+    "price": "$0.97",
+    "price_market": "$9.52",
+    "rerity": "Secret Rare",
+    "set_name": "25th Anniversary Rarity Collection"
+  },
+  {
+    "card_name": "Number C62: Neo Galaxy-Eyes Prime Photon Dragon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579543_in_200x200.jpg",
+    "price": "$0.25",
+    "price_market": "$0.91",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Pile Armed Dragon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/264840_in_200x200.jpg",
+    "price": "$6.97",
+    "price_market": "$1.72",
+    "rerity": "Secret Rare",
+    "set_name": "Hidden Arsenal: Chapter 1"
+  },
+  {
+    "card_name": "Superancient Deepsea King Coelacanth",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/485570_in_200x200.jpg",
+    "price": "$8.87",
+    "price_market": "$0.32",
+    "rerity": "Super Rare",
+    "set_name": "Maze of Memories"
+  },
+  {
+    "card_name": "Cornfield Coatl",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579681_in_200x200.jpg",
+    "price": "$0.32",
+    "price_market": "$0.27",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Mementotlan Twin Dragon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/546812_in_200x200.jpg",
+    "price": "$0.10",
+    "price_market": "$0.08",
+    "rerity": "Common / Short Print",
+    "set_name": "Legacy of Destruction"
+  },
+  {
+    "card_name": "Terraforming",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/224989_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.21",
+    "rerity": "Common / Short Print",
+    "set_name": "Structure Deck: Spirit Charmers"
+  },
+  {
+    "card_name": "Poissonniere de Nouvelles",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/520410_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.19",
+    "rerity": "Super Rare",
+    "set_name": "Age of Overlord"
+  },
+  {
+    "card_name": "Galaxy Photon Dragon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579544_in_200x200.jpg",
+    "price": "$0.67",
+    "price_market": "$0.59",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Labrynth Labyrinth",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/514715_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.26",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack"
+  },
+  {
+    "card_name": "Galatea, the Orcust Automaton ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592476_in_200x200.jpg",
+    "price": "$0.26",
+    "price_market": "$1.36",
+    "rerity": "Platinum Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Relinquished Anima",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/256378_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$4.41",
+    "rerity": "Secret Rare",
+    "set_name": "Brothers of Legend"
+  },
+  {
+    "card_name": "Madolche Queen Tiarafraise",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/559228_in_200x200.jpg",
+    "price": "$0.08",
+    "price_market": "$0.21",
+    "rerity": "Super Rare",
+    "set_name": "The Infinite Forbidden"
+  },
+  {
+    "card_name": "Monk of the Tenyi",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/599906_in_200x200.jpg",
+    "price": "$2.27",
+    "price_market": "$0.08",
+    "rerity": "Rare",
+    "set_name": "Crossover Breakers"
+  },
+  {
+    "card_name": "Reincarnation Unveiling Mail",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/584304_in_200x200.jpg",
+    "price": "$2.09",
+    "price_market": "$0.11",
+    "rerity": "Common / Short Print",
+    "set_name": "Rage of the Abyss"
+  },
+  {
+    "card_name": "Limiter Removal (Alternate Art)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579531_in_200x200.jpg",
+    "price": "$2.33",
+    "price_market": "$1.87",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "The Black Stone of Legend",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/123569_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$1.77",
+    "rerity": "Ultra Rare",
+    "set_name": "Legendary Decks II"
+  },
+  {
+    "card_name": "Super Polymerization (PUR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592540_in_200x200.jpg",
+    "price": "$0.06",
+    "price_market": "$2.75",
+    "rerity": "Prismatic Ultimate Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Purrely (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/550969_in_200x200.jpg",
+    "price": "$29.97",
+    "price_market": "$0.21",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Spellbound",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/514742_in_200x200.jpg",
+    "price": "$0.28",
+    "price_market": "$0.38",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack"
+  },
+  {
+    "card_name": "Rivalry of Warlords ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592698_in_200x200.jpg",
+    "price": "$0.22",
+    "price_market": "$5.83",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Diabellze the Original Sinkeeper",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/546781_in_200x200.jpg",
+    "price": "$1.40",
+    "price_market": "$11.13",
+    "rerity": "Secret Rare",
+    "set_name": "Legacy of Destruction"
+  },
+  {
+    "card_name": "Tour Guide From the Underworld",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/524647_in_200x200.jpg",
+    "price": "$0.25",
+    "price_market": "$0.28",
+    "rerity": "Super Rare",
+    "set_name": "25th Anniversary Rarity Collection"
+  },
+  {
+    "card_name": "Compulsory Evacuation Device",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/282355_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.09",
+    "rerity": "Rare",
+    "set_name": "Tactical Masters"
+  },
+  {
+    "card_name": "Photon Jumper",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/500389_in_200x200.jpg",
+    "price": "$18.99",
+    "price_market": "$0.74",
+    "rerity": "Secret Rare",
+    "set_name": "Battles of Legend: Monstrous Revenge"
+  },
+  {
+    "card_name": "Duality",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/500376_in_200x200.jpg",
+    "price": "$9.49",
+    "price_market": "$8.22",
+    "rerity": "Secret Rare",
+    "set_name": "Battles of Legend: Monstrous Revenge"
+  },
+  {
+    "card_name": "Stardust Synchron",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/285137_in_200x200.jpg",
+    "price": "$0.38",
+    "price_market": "$0.31",
+    "rerity": "Ultra Rare",
+    "set_name": "2022 Tin of the Pharaoh's Gods"
+  },
+  {
+    "card_name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/533161_in_200x200.jpg",
+    "price": "$3.30",
+    "price_market": "$10.93",
+    "rerity": "Ultra Rare",
+    "set_name": "2-Player Starter Set"
+  },
+  {
+    "card_name": "Ghost Mourner & Moonlit Chill",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/249075_in_200x200.jpg",
+    "price": "$0.94",
+    "price_market": "$0.94",
+    "rerity": "Ultra Rare",
+    "set_name": "2021 Tin of Ancient Battles"
+  },
+  {
+    "card_name": "The Winged Dragon of Ra (25th Anniversary Edition)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/491807_in_200x200.jpg",
+    "price": "$2.47",
+    "price_market": "$0.87",
+    "rerity": "Ultra Rare",
+    "set_name": "Legendary Collection: 25th Anniversary Edition"
+  },
+  {
+    "card_name": "WANTED: Seeker of Sinful Spoils (PUR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592694_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$2.34",
+    "rerity": "Prismatic Ultimate Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Startling Stare of the Snake-Eyes",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579717_in_200x200.jpg",
+    "price": "$0.25",
+    "price_market": "$0.18",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Cosmic Cyclone",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/551269_in_200x200.jpg",
+    "price": "$0.28",
+    "price_market": "$0.30",
+    "rerity": "Super Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Danger!? Tsuchinoko?",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/454848_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.29",
+    "rerity": "Common / Short Print",
+    "set_name": "Structure Deck: Dark World"
+  },
+  {
+    "card_name": "Dinomorphia Domain",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/514706_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.19",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack"
+  },
+  {
+    "card_name": "Toon Terror",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/453707_in_200x200.jpg",
+    "price": "$6.08",
+    "price_market": "$0.19",
+    "rerity": "Ultra Rare",
+    "set_name": "Battles of Legend: Crystal Revenge"
+  },
+  {
+    "card_name": "Original Sinful Spoils - Snake-Eye",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/520528_in_200x200.jpg",
+    "price": "$5.79",
+    "price_market": "$4.29",
+    "rerity": "Ultra Rare",
+    "set_name": "Age of Overlord"
+  },
+  {
+    "card_name": "Bonfire ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592684_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$5.68",
+    "rerity": "Platinum Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Cynet Mining ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592642_in_200x200.jpg",
+    "price": "$22.97",
+    "price_market": "$18.12",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Thunder Dragondark (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592292_in_200x200.jpg",
+    "price": "$2.47",
+    "price_market": "$0.16",
+    "rerity": "Ultra Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Sky Striker Ace - Shizuku (Alternate Art) ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/594073_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$22.33",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Danger! Bigfoot! (Alternate Art) ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592298_in_200x200.jpg",
+    "price": "$39.99",
+    "price_market": "$2.02",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Ryko, Lightsworn Hunter",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/550863_in_200x200.jpg",
+    "price": "$0.97",
+    "price_market": "$0.23",
+    "rerity": "Super Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Assault Synchron",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/500316_in_200x200.jpg",
+    "price": "$4.95",
+    "price_market": "$3.70",
+    "rerity": "Secret Rare",
+    "set_name": "Battles of Legend: Monstrous Revenge"
+  },
+  {
+    "card_name": "Sleipnir the Runick Mane",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579570_in_200x200.jpg",
+    "price": "$11.98",
+    "price_market": "$0.86",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Bonfire",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579607_in_200x200.jpg",
+    "price": "$0.79",
+    "price_market": "$4.43",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Infinite Impermanence",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/451080_in_200x200.jpg",
+    "price": "$0.15",
+    "price_market": "$9.98",
+    "rerity": "Ultra Rare",
+    "set_name": "Magnificent Mavens"
+  },
+  {
+    "card_name": "Spright Red",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/554934_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.15",
+    "rerity": "Ultra Rare",
+    "set_name": "Battles of Legend: Terminal Revenge"
+  },
+  {
+    "card_name": "Lightsworn Dragonling",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/546795_in_200x200.jpg",
+    "price": "$11.98",
+    "price_market": "$8.64",
+    "rerity": "Ultra Rare",
+    "set_name": "Legacy of Destruction"
+  },
+  {
+    "card_name": "Armageddon Knight (PCR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592174_in_200x200.jpg",
+    "price": "$0.42",
+    "price_market": "$0.50",
+    "rerity": "Prismatic Collector's Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Nemeses Corridor ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592344_in_200x200.jpg",
+    "price": "$3.97",
+    "price_market": "$2.62",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Sky Striker Mobilize - Engage!",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/500513_in_200x200.jpg",
+    "price": "$0.21",
+    "price_market": "$5.62",
+    "rerity": "Secret Rare",
+    "set_name": "Battles of Legend: Monstrous Revenge"
+  },
+  {
+    "card_name": "Synchro Overtake",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/285003_in_200x200.jpg",
+    "price": "$7.97",
+    "price_market": "$0.21",
+    "rerity": "Ultra Rare",
+    "set_name": "2022 Tin of the Pharaoh's Gods"
+  },
+  {
+    "card_name": "One for One ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592560_in_200x200.jpg",
+    "price": "$0.97",
+    "price_market": "$8.12",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Monster Reborn (PUR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592534_in_200x200.jpg",
+    "price": "$0.42",
+    "price_market": "$0.62",
+    "rerity": "Prismatic Ultimate Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Skill Drain (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/551382_in_200x200.jpg",
+    "price": "$0.19",
+    "price_market": "$0.26",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Mimicking Man-Eater Bug",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/285093_in_200x200.jpg",
+    "price": "$0.82",
+    "price_market": "$0.19",
+    "rerity": "Ultra Rare",
+    "set_name": "2022 Tin of the Pharaoh's Gods"
+  },
+  {
+    "card_name": "Ghost Sister & Spooky Dogwood (Alternate Art) (PCR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592307_in_200x200.jpg",
+    "price": "$6.99",
+    "price_market": "$1.59",
+    "rerity": "Prismatic Collector's Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Ready Fusion",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/285001_in_200x200.jpg",
+    "price": "$2.60",
+    "price_market": "$0.75",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "2022 Tin of the Pharaoh's Gods"
+  },
+  {
+    "card_name": "Snake-Eye Oak",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579585_in_200x200.jpg",
+    "price": "$1.47",
+    "price_market": "$2.71",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Red-Eyes Dark Dragoon ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/550991_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$1.35",
+    "rerity": "Secret Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Power Tool Dragon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/264843_in_200x200.jpg",
+    "price": "$2.25",
+    "price_market": "$1.00",
+    "rerity": "Secret Rare",
+    "set_name": "Hidden Arsenal: Chapter 1"
+  },
+  {
+    "card_name": "Drytron Nu II",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/559200_in_200x200.jpg",
+    "price": "$9.97",
+    "price_market": "$0.05",
+    "rerity": "Common / Short Print",
+    "set_name": "The Infinite Forbidden"
+  },
+  {
+    "card_name": "Dragonmaid Sheou",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/249083_in_200x200.jpg",
+    "price": "$1.15",
+    "price_market": "$0.79",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "2021 Tin of Ancient Battles"
+  },
+  {
+    "card_name": "S:P Little Knight (PUR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592514_in_200x200.jpg",
+    "price": "$0.69",
+    "price_market": "$7.90",
+    "rerity": "Prismatic Ultimate Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Solemn Strike ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/551397_in_200x200.jpg",
+    "price": "$0.27",
+    "price_market": "$0.98",
+    "rerity": "Secret Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Soul Crossing",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/241961_in_200x200.jpg",
+    "price": "$0.71",
+    "price_market": "$0.30",
+    "rerity": "Ultra Rare",
+    "set_name": "Egyptian God Deck: Obelisk the Tormentor"
+  },
+  {
+    "card_name": "Red-Eyes Insight ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592600_in_200x200.jpg",
+    "price": "$5.99",
+    "price_market": "$4.37",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Angel Statue - Azurune",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/231392_in_200x200.jpg",
+    "price": "$6.50",
+    "price_market": "$2.80",
+    "rerity": "Super Rare",
+    "set_name": "Blazing Vortex"
+  },
+  {
+    "card_name": "Mementotlan Fusion",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/546848_in_200x200.jpg",
+    "price": "$0.10",
+    "price_market": "$0.13",
+    "rerity": "Common / Short Print",
+    "set_name": "Legacy of Destruction"
+  },
+  {
+    "card_name": "Artifact Lancea",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/193666_in_200x200.jpg",
+    "price": "$14.68",
+    "price_market": "$3.38",
+    "rerity": "Secret Rare",
+    "set_name": "Battles of Legend: Hero's Revenge"
+  },
+  {
+    "card_name": "Harpie's Feather Duster",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/451056_in_200x200.jpg",
+    "price": "$6.93",
+    "price_market": "$3.02",
+    "rerity": "Ultra Rare",
+    "set_name": "Magnificent Mavens"
+  },
+  {
+    "card_name": "Promethean Princess, Bestower of Flames ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592517_in_200x200.jpg",
+    "price": "$5.97",
+    "price_market": "$5.26",
+    "rerity": "Platinum Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Crossout Designator",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/285205_in_200x200.jpg",
+    "price": "$4.88",
+    "price_market": "$5.11",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "2022 Tin of the Pharaoh's Gods"
+  },
+  {
+    "card_name": "Revealer of the Ice Barrier ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592365_in_200x200.jpg",
+    "price": "$2.97",
+    "price_market": "$1.92",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Diviner of the Herald",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/284975_in_200x200.jpg",
+    "price": "$6.04",
+    "price_market": "$3.75",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "2022 Tin of the Pharaoh's Gods"
+  },
+  {
+    "card_name": "Visas Samsara",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579582_in_200x200.jpg",
+    "price": "$0.99",
+    "price_market": "$0.62",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Rescue-ACE Fire Engine",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579755_in_200x200.jpg",
+    "price": "$0.25",
+    "price_market": "$0.20",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Mementotlan Dark Blade",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/526929_in_200x200.jpg",
+    "price": "$0.95",
+    "price_market": "$0.78",
+    "rerity": "Super Rare",
+    "set_name": "Valiant Smashers"
+  },
+  {
+    "card_name": "Ryko, Lightsworn Hunter ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/550865_in_200x200.jpg",
+    "price": "$0.50",
+    "price_market": "$0.45",
+    "rerity": "Secret Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Ancient Gear Fortress (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592611_in_200x200.jpg",
+    "price": "$0.11",
+    "price_market": "$0.12",
+    "rerity": "Ultra Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Vision HERO Vyon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/269327_in_200x200.jpg",
+    "price": "$0.23",
+    "price_market": "$0.26",
+    "rerity": "Ultra Rare",
+    "set_name": "Ghosts From the Past: The 2nd Haunting"
+  },
+  {
+    "card_name": "Therion Discolosseum",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/514618_in_200x200.jpg",
+    "price": "$0.22",
+    "price_market": "$0.21",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack"
+  },
+  {
+    "card_name": "Book of Eclipse",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/500512_in_200x200.jpg",
+    "price": "$1.85",
+    "price_market": "$1.06",
+    "rerity": "Secret Rare",
+    "set_name": "Battles of Legend: Monstrous Revenge"
+  },
+  {
+    "card_name": "A Hero Lives",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/451061_in_200x200.jpg",
+    "price": "$0.29",
+    "price_market": "$0.30",
+    "rerity": "Ultra Rare",
+    "set_name": "Magnificent Mavens"
+  },
+  {
+    "card_name": "Snake-Eyes Flamberge Dragon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592400_in_200x200.jpg",
+    "price": "$0.25",
+    "price_market": "$0.17",
+    "rerity": "Super Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Abyss-sting Triaina",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/584320_in_200x200.jpg",
+    "price": "$0.10",
+    "price_market": "$0.13",
+    "rerity": "Common / Short Print",
+    "set_name": "Rage of the Abyss"
+  },
+  {
+    "card_name": "Mementomictlan Tecuhtlica - Creation King",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/559218_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.12",
+    "rerity": "Super Rare",
+    "set_name": "The Infinite Forbidden"
+  },
+  {
+    "card_name": "Dark Beckoning Beast ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592358_in_200x200.jpg",
+    "price": "$7.97",
+    "price_market": "$6.52",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Rescue-ACE Hydrant",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/532368_in_200x200.jpg",
+    "price": "$11.99",
+    "price_market": "$9.39",
+    "rerity": "Super Rare",
+    "set_name": "Maze of Millennia"
+  },
+  {
+    "card_name": "Branded Opening",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592666_in_200x200.jpg",
+    "price": "$0.25",
+    "price_market": "$0.17",
+    "rerity": "Super Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Kuribabylon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/256295_in_200x200.jpg",
+    "price": "$0.44",
+    "price_market": "$0.40",
+    "rerity": "Ultra Rare",
+    "set_name": "Brothers of Legend"
+  },
+  {
+    "card_name": "Visas Amritara",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579572_in_200x200.jpg",
+    "price": "$0.32",
+    "price_market": "$0.50",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Opening of the Spirit Gates",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/248905_in_200x200.jpg",
+    "price": "$0.30",
+    "price_market": "$0.30",
+    "rerity": "Ultra Rare",
+    "set_name": "2021 Tin of Ancient Battles"
+  },
+  {
+    "card_name": "Mecha Phantom Beast Dracossack",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592443_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.16",
+    "rerity": "Super Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Red-Eyes B. Dragon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/123567_in_200x200.jpg",
+    "price": "$0.22",
+    "price_market": "$0.28",
+    "rerity": "Common / Short Print",
+    "set_name": "Legendary Decks II"
+  },
+  {
+    "card_name": "Amphibious Swarmship Amblowhale",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/189405_in_200x200.jpg",
+    "price": "$7.15",
+    "price_market": "$5.40",
+    "rerity": "Rare",
+    "set_name": "Dark Neostorm"
+  },
+  {
+    "card_name": "Live Twin Sunny's Snitch",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/284999_in_200x200.jpg",
+    "price": "$0.26",
+    "price_market": "$0.24",
+    "rerity": "Common / Short Print",
+    "set_name": "2022 Tin of the Pharaoh's Gods"
+  },
+  {
+    "card_name": "Superheavy Samurai Prodigy Wakaushi",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579550_in_200x200.jpg",
+    "price": "$0.01",
+    "price_market": "$0.63",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Battlewasp - Rapier the Onslaught",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/584251_in_200x200.jpg",
+    "price": "$0.06",
+    "price_market": "$0.08",
+    "rerity": "Common / Short Print",
+    "set_name": "Rage of the Abyss"
+  },
+  {
+    "card_name": "Sky Striker Ace - Raye",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/450983_in_200x200.jpg",
+    "price": "$0.19",
+    "price_market": "$0.27",
+    "rerity": "Ultra Rare",
+    "set_name": "Magnificent Mavens"
+  },
+  {
+    "card_name": "Lord of the Heavenly Prison",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592374_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.16",
+    "rerity": "Super Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Solemn Warning (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/551389_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.25",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Herald of Orange Light",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/450442_in_200x200.jpg",
+    "price": "$4.75",
+    "price_market": "$3.45",
+    "rerity": "Super Rare",
+    "set_name": "OTS Tournament Pack 20"
+  },
+  {
+    "card_name": "Dragonmaid Tidying",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/249064_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.22",
+    "rerity": "Rare",
+    "set_name": "2021 Tin of Ancient Battles"
+  },
+  {
+    "card_name": "Diabellstar the Black Witch (PCR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592391_in_200x200.jpg",
+    "price": "$0.28",
+    "price_market": "$4.33",
+    "rerity": "Prismatic Collector's Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Mementotlan Tatsunootoshigo",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/526928_in_200x200.jpg",
+    "price": "$0.42",
+    "price_market": "$0.25",
+    "rerity": "Super Rare",
+    "set_name": "Valiant Smashers"
+  },
+  {
+    "card_name": "Canon the Melodious Diva",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/94520_in_200x200.jpg",
+    "price": "$3.39",
+    "price_market": "$0.49",
+    "rerity": "Common / Short Print",
+    "set_name": "The New Challengers"
+  },
+  {
+    "card_name": "Branded Regained",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/450146_in_200x200.jpg",
+    "price": "$1.99",
+    "price_market": "$1.90",
+    "rerity": "Super Rare",
+    "set_name": "Darkwing Blast"
+  },
+  {
+    "card_name": "Punishment Dragon ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592267_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$2.34",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Called by the Grave (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/524804_in_200x200.jpg",
+    "price": "$0.19",
+    "price_market": "$1.12",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Rarity Collection"
+  },
+  {
+    "card_name": "Chaos Summoning Beast",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/248904_in_200x200.jpg",
+    "price": "$0.97",
+    "price_market": "$0.21",
+    "rerity": "Super Rare",
+    "set_name": "2021 Tin of Ancient Battles"
+  },
+  {
+    "card_name": "Soul Energy MAX!!!",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/285215_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.22",
+    "rerity": "Ultra Rare",
+    "set_name": "2022 Tin of the Pharaoh's Gods"
+  },
+  {
+    "card_name": "One for One (Alternate Art)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592565_in_200x200.jpg",
+    "price": "$0.25",
+    "price_market": "$0.18",
+    "rerity": "Super Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Orcust Knightmare",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/184127_in_200x200.jpg",
+    "price": "$0.52",
+    "price_market": "$0.39",
+    "rerity": "Common / Short Print",
+    "set_name": "Savage Strike"
+  },
+  {
+    "card_name": "Dinomorphia Frenzy",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/514654_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.15",
+    "rerity": "Super Rare",
+    "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack"
+  },
+  {
+    "card_name": "Red-Eyes Dark Dragoon (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/550990_in_200x200.jpg",
+    "price": "$0.75",
+    "price_market": "$0.62",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Borreload Furious Dragon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/196857_in_200x200.jpg",
+    "price": "$0.57",
+    "price_market": "$2.96",
+    "rerity": "Ultra Rare",
+    "set_name": "Structure Deck: Rokket Revolt"
+  },
+  {
+    "card_name": "Ritual Beast Ulti-Nochiudrago",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/554871_in_200x200.jpg",
+    "price": "$0.60",
+    "price_market": "$0.46",
+    "rerity": "Secret Rare",
+    "set_name": "Battles of Legend: Terminal Revenge"
+  },
+  {
+    "card_name": "Link into the VRAINS!",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/285213_in_200x200.jpg",
+    "price": "$0.06",
+    "price_market": "$0.56",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "2022 Tin of the Pharaoh's Gods"
+  },
+  {
+    "card_name": "Mementotlan Akihiron",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/584259_in_200x200.jpg",
+    "price": "$15.85",
+    "price_market": "$0.08",
+    "rerity": "Common / Short Print",
+    "set_name": "Rage of the Abyss"
+  },
+  {
+    "card_name": "Mystical Space Typhoon ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/551182_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$11.24",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Danger! Bigfoot!",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592301_in_200x200.jpg",
+    "price": "$0.25",
+    "price_market": "$0.07",
+    "rerity": "Super Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Eria the Water Charmer, Gentle ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592499_in_200x200.jpg",
+    "price": "$0.33",
+    "price_market": "$0.25",
+    "rerity": "Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Gen the Diamond Tiger",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579721_in_200x200.jpg",
+    "price": "$5.95",
+    "price_market": "$0.25",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "I:P Masquerena",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/500500_in_200x200.jpg",
+    "price": "$1.97",
+    "price_market": "$3.27",
+    "rerity": "Secret Rare",
+    "set_name": "Battles of Legend: Monstrous Revenge"
+  },
+  {
+    "card_name": "Red-Eyes Insight ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592599_in_200x200.jpg",
+    "price": "$8.13",
+    "price_market": "$1.62",
+    "rerity": "Platinum Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Wake Up Centur-Ion!",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/546849_in_200x200.jpg",
+    "price": "$9.88",
+    "price_market": "$1.61",
+    "rerity": "Ultra Rare",
+    "set_name": "Legacy of Destruction"
+  },
+  {
+    "card_name": "Golden Rule",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/500361_in_200x200.jpg",
+    "price": "$0.32",
+    "price_market": "$2.86",
+    "rerity": "Secret Rare",
+    "set_name": "Battles of Legend: Monstrous Revenge"
+  },
+  {
+    "card_name": "Galatea, the Orcust Automaton (PCR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592475_in_200x200.jpg",
+    "price": "$0.15",
+    "price_market": "$0.35",
+    "rerity": "Prismatic Collector's Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Tenyi Spirit - Nahata",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/599903_in_200x200.jpg",
+    "price": "$1.70",
+    "price_market": "$0.08",
+    "rerity": "Rare",
+    "set_name": "Crossover Breakers"
+  },
+  {
+    "card_name": "Thunder Dragon Colossus ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592418_in_200x200.jpg",
+    "price": "$1.47",
+    "price_market": "$1.80",
+    "rerity": "Platinum Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Big-Winged Berfomet",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579566_in_200x200.jpg",
+    "price": "$0.47",
+    "price_market": "$0.80",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Fantastical Dragon Phantazmay (Alternate Art) (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/550934_in_200x200.jpg",
+    "price": "$0.89",
+    "price_market": "$0.26",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Number 62: Galaxy-Eyes Prime Photon Dragon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/230296_in_200x200.jpg",
+    "price": "$8.14",
+    "price_market": "$0.90",
+    "rerity": "Common / Short Print",
+    "set_name": "Legendary Duelists: Season 2"
+  },
+  {
+    "card_name": "Dimensional Barrier",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/199600_in_200x200.jpg",
+    "price": "$17.59",
+    "price_market": "$4.17",
+    "rerity": "Ultra Rare",
+    "set_name": "Duel Devastator"
+  },
+  {
+    "card_name": "Centur-Ion Auxila",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/546818_in_200x200.jpg",
+    "price": "$19.50",
+    "price_market": "$7.84",
+    "rerity": "Secret Rare",
+    "set_name": "Legacy of Destruction"
+  },
+  {
+    "card_name": "Return of the Dragon Lords ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592592_in_200x200.jpg",
+    "price": "$0.97",
+    "price_market": "$1.10",
+    "rerity": "Platinum Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Lancea, Ancestral Dragon of the Ice Mountain",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/554854_in_200x200.jpg",
+    "price": "$13.18",
+    "price_market": "$11.48",
+    "rerity": "Secret Rare",
+    "set_name": "Battles of Legend: Terminal Revenge"
+  },
+  {
+    "card_name": "Aerial Eater",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/559281_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.06",
+    "rerity": "Common / Short Print",
+    "set_name": "The Infinite Forbidden"
+  },
+  {
+    "card_name": "Light Dragon @Ignister",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/248994_in_200x200.jpg",
+    "price": "$0.14",
+    "price_market": "$0.19",
+    "rerity": "Common / Short Print",
+    "set_name": "2021 Tin of Ancient Battles"
+  },
+  {
+    "card_name": "Dark Armed, the Dragon of Annihilation",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/538478_in_200x200.jpg",
+    "price": "$0.50",
+    "price_market": "$3.40",
+    "rerity": "Secret Rare",
+    "set_name": "Battles of Legend: Chapter 1"
+  },
+  {
+    "card_name": "Ancient Fairy Dragon ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/524827_in_200x200.jpg",
+    "price": "$0.15",
+    "price_market": "$0.57",
+    "rerity": "Secret Rare",
+    "set_name": "25th Anniversary Rarity Collection"
+  },
+  {
+    "card_name": "Fabled Lurrie (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592187_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.23",
+    "rerity": "Ultra Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Scareclaw Reichheart",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/514764_in_200x200.jpg",
+    "price": "$0.27",
+    "price_market": "$0.28",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack"
+  },
+  {
+    "card_name": "Visas Starfrost",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/514756_in_200x200.jpg",
+    "price": "$0.11",
+    "price_market": "$0.31",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack"
+  },
+  {
+    "card_name": "SIMM Tablir",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/170577_in_200x200.jpg",
+    "price": "$0.43",
+    "price_market": "$0.13",
+    "rerity": "Rare",
+    "set_name": "Cybernetic Horizon"
+  },
+  {
+    "card_name": "Book of Eclipse",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/199593_in_200x200.jpg",
+    "price": "$0.50",
+    "price_market": "$0.27",
+    "rerity": "Ultra Rare",
+    "set_name": "Duel Devastator"
+  },
+  {
+    "card_name": "Small World",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/524506_in_200x200.jpg",
+    "price": "$4.97",
+    "price_market": "$0.40",
+    "rerity": "Super Rare",
+    "set_name": "25th Anniversary Rarity Collection"
+  },
+  {
+    "card_name": "Return of the Dragon Lords ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592593_in_200x200.jpg",
+    "price": "$0.01",
+    "price_market": "$3.76",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Ancient Gear Dark Golem",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/546774_in_200x200.jpg",
+    "price": "$1.29",
+    "price_market": "$1.50",
+    "rerity": "Super Rare",
+    "set_name": "Legacy of Destruction"
+  },
+  {
+    "card_name": "Secret Password",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/228652_in_200x200.jpg",
+    "price": "$7.93",
+    "price_market": "$0.95",
+    "rerity": "Super Rare",
+    "set_name": "Genesis Impact"
+  },
+  {
+    "card_name": "Snake-Eye Ash",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/520386_in_200x200.jpg",
+    "price": "$0.50",
+    "price_market": "$1.22",
+    "rerity": "Super Rare",
+    "set_name": "Age of Overlord"
+  },
+  {
+    "card_name": "Sky Striker Ace - Hayate",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/450989_in_200x200.jpg",
+    "price": "$1.97",
+    "price_market": "$0.48",
+    "rerity": "Ultra Rare",
+    "set_name": "Magnificent Mavens"
+  },
+  {
+    "card_name": "Sky Striker Ace - Shizuku ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592469_in_200x200.jpg",
+    "price": "$99.99",
+    "price_market": "$1.39",
+    "rerity": "Platinum Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Maliss P Dormouse (CR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/599859_in_200x200.jpg",
+    "price": "$4.27",
+    "price_market": "$84.40",
+    "rerity": "Collector's Rare",
+    "set_name": "Crossover Breakers"
+  },
+  {
+    "card_name": "Vampire Scarlet Scourge",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/197529_in_200x200.jpg",
+    "price": "$6.45",
+    "price_market": "$0.22",
+    "rerity": "Common / Short Print",
+    "set_name": "2019 Gold Sarcophagus Tin Mega Pack"
+  },
+  {
+    "card_name": "Harpie's Feather Duster (Alternate Art)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579532_in_200x200.jpg",
+    "price": "$1.19",
+    "price_market": "$6.72",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Gravekeeper's Recruiter",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/600182_in_200x200.jpg",
+    "price": "$0.15",
+    "price_market": "$0.65",
+    "rerity": "Common / Short Print",
+    "set_name": "Speed Duel: Battle City Finals"
+  },
+  {
+    "card_name": "Snatch Steal",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/554953_in_200x200.jpg",
+    "price": "$9.95",
+    "price_market": "$1.73",
+    "rerity": "Secret Rare",
+    "set_name": "Battles of Legend: Terminal Revenge"
+  },
+  {
+    "card_name": "Ash Blossom & Joyous Spring ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/524813_in_200x200.jpg",
+    "price": "$9.99",
+    "price_market": "$9.54",
+    "rerity": "Secret Rare",
+    "set_name": "25th Anniversary Rarity Collection"
+  },
+  {
+    "card_name": "Grave of the Super Ancient Organism",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592714_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.12",
+    "rerity": "Super Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Nibiru, the Primal Being",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/197090_in_200x200.jpg",
+    "price": "$3.01",
+    "price_market": "$4.11",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "2019 Gold Sarcophagus Tin"
+  },
+  {
+    "card_name": "Shining Sarcophagus",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/546831_in_200x200.jpg",
+    "price": "$37.00",
+    "price_market": "$15.46",
+    "rerity": "Secret Rare",
+    "set_name": "Legacy of Destruction"
+  },
+  {
+    "card_name": "Trap Trick",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592721_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.11",
+    "rerity": "Super Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Diabellstar the Black Witch (PUR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592395_in_200x200.jpg",
+    "price": "$3.42",
+    "price_market": "$3.58",
+    "rerity": "Prismatic Ultimate Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Blue-Eyes White Dragon",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/22657_in_200x200.jpg",
+    "price": "$4.99",
+    "price_market": "$77.43",
+    "rerity": "Ultra Rare",
+    "set_name": "Starter Deck: Kaiba"
+  },
+  {
+    "card_name": "The Flute of Summoning Dragon ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592740_in_200x200.jpg",
+    "price": "$0.26",
+    "price_market": "$0.25",
+    "rerity": "Platinum Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Evilswarm Ouroboros",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/599896_in_200x200.jpg",
+    "price": "$0.15",
+    "price_market": "$0.09",
+    "rerity": "Rare",
+    "set_name": "Crossover Breakers"
+  },
+  {
+    "card_name": "Maliss P Chessy Cat (CR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/600463_in_200x200.jpg",
+    "price": "$59.99",
+    "price_market": "$52.15",
+    "rerity": "Collector's Rare",
+    "set_name": "Crossover Breakers"
+  },
+  {
+    "card_name": "Rescue-ACE Fire Attacker",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579754_in_200x200.jpg",
+    "price": "$0.25",
+    "price_market": "$0.22",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Rivalry of Warlords ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592697_in_200x200.jpg",
+    "price": "$1.03",
+    "price_market": "$1.02",
+    "rerity": "Platinum Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Ancient Gear Howitzer ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592412_in_200x200.jpg",
+    "price": "$1.08",
+    "price_market": "$1.05",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Branded in High Spirits",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/252596_in_200x200.jpg",
+    "price": "$4.25",
+    "price_market": "$1.59",
+    "rerity": "Super Rare",
+    "set_name": "Burst of Destiny"
+  },
+  {
+    "card_name": "Destiny HERO - Malicious (PUR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592172_in_200x200.jpg",
+    "price": "$1.00",
+    "price_market": "$0.83",
+    "rerity": "Prismatic Ultimate Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Prayers of the Voiceless Voice",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/536436_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.18",
+    "rerity": "Common / Short Print",
+    "set_name": "Phantom Nightmare"
+  },
+  {
+    "card_name": "House Dragonmaid (PUR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592430_in_200x200.jpg",
+    "price": "$0.25",
+    "price_market": "$0.29",
+    "rerity": "Prismatic Ultimate Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Obelisk the Tormentor (25th Anniversary Edition)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/491803_in_200x200.jpg",
+    "price": "$0.72",
+    "price_market": "$0.66",
+    "rerity": "Ultra Rare",
+    "set_name": "Legendary Collection: 25th Anniversary Edition"
+  },
+  {
+    "card_name": "Skull Guardian, Protector of the Voiceless Voice",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/536397_in_200x200.jpg",
+    "price": "$7.32",
+    "price_market": "$2.27",
+    "rerity": "Ultra Rare",
+    "set_name": "Phantom Nightmare"
+  },
+  {
+    "card_name": "Swordsoul Emergence",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/451083_in_200x200.jpg",
+    "price": "$0.19",
+    "price_market": "$4.88",
+    "rerity": "Ultra Rare",
+    "set_name": "Magnificent Mavens"
+  },
+  {
+    "card_name": "Tearlaments Scream",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/450154_in_200x200.jpg",
+    "price": "$0.75",
+    "price_market": "$0.19",
+    "rerity": "Common / Short Print",
+    "set_name": "Darkwing Blast"
+  },
+  {
+    "card_name": "The Winged Dragon of Ra - Sphere Mode ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/524737_in_200x200.jpg",
+    "price": "$0.73",
+    "price_market": "$0.77",
+    "rerity": "Secret Rare",
+    "set_name": "25th Anniversary Rarity Collection"
+  },
+  {
+    "card_name": "Thunder Dragon Colossus",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592421_in_200x200.jpg",
+    "price": "$0.24",
+    "price_market": "$0.22",
+    "rerity": "Super Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Dark Magician the Knight of Dragon Magic",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/500311_in_200x200.jpg",
+    "price": "$2.31",
+    "price_market": "$2.37",
+    "rerity": "Secret Rare",
+    "set_name": "Battles of Legend: Monstrous Revenge"
+  },
+  {
+    "card_name": "Gate Guardian of Wind and Water",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/485510_in_200x200.jpg",
+    "price": "$1.03",
+    "price_market": "$0.90",
+    "rerity": "Super Rare",
+    "set_name": "Maze of Memories"
+  },
+  {
+    "card_name": "D/D/D Wave High King Caesar",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/image-missing.svg",
+    "price": "$1.47",
+    "price_market": "$1.56",
+    "rerity": "Super Rare",
+    "set_name": "OTS Tournament Pack 24"
+  },
+  {
+    "card_name": "Fusion Armament",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579579_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$1.16",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Pressured Planet Wraitsoth (UR)",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/551354_in_200x200.jpg",
+    "price": "$0.45",
+    "price_market": "$0.18",
+    "rerity": "Ultra Rare",
+    "set_name": "25th Anniversary Rarity Collection II"
+  },
+  {
+    "card_name": "Live Twin Home",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/228650_in_200x200.jpg",
+    "price": "$1.22",
+    "price_market": "$0.33",
+    "rerity": "Super Rare",
+    "set_name": "Genesis Impact"
+  },
+  {
+    "card_name": "Mementotlan Bone Party",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/526944_in_200x200.jpg",
+    "price": "$4.99",
+    "price_market": "$20.65",
+    "rerity": "Ultra Rare",
+    "set_name": "Valiant Smashers"
+  },
+  {
+    "card_name": "Vanquish Soul Razen",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/579613_in_200x200.jpg",
+    "price": "$44.97",
+    "price_market": "$0.94",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Mirrors"
+  },
+  {
+    "card_name": "Goblin Biker Dugg Charger",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/536361_in_200x200.jpg",
+    "price": "$0.26",
+    "price_market": "$4.14",
+    "rerity": "Ultra Rare",
+    "set_name": "Phantom Nightmare"
+  },
+  {
+    "card_name": "Triple Tactics Thrust ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592678_in_200x200.jpg",
+    "price": "$0.87",
+    "price_market": "$43.39",
+    "rerity": "Quarter Century Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Herald of the Arc Light",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/524857_in_200x200.jpg",
+    "price": "$0.10",
+    "price_market": "$0.26",
+    "rerity": "Super Rare",
+    "set_name": "25th Anniversary Rarity Collection"
+  },
+  {
+    "card_name": "Red-Eyes Zombie Dragon Lord",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/514602_in_200x200.jpg",
+    "price": "$1.88",
+    "price_market": "$0.32",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "25th Anniversary Tin: Dueling Heroes Mega Pack"
+  },
+  {
+    "card_name": "Fusion Gate",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/268016_in_200x200.jpg",
+    "price": "$0.22",
+    "price_market": "$0.15",
+    "rerity": "Common / Short Print",
+    "set_name": "Structure Deck: Albaz Strike"
+  },
+  {
+    "card_name": "Royal Decree",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/199603_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.68",
+    "rerity": "Ultra Rare",
+    "set_name": "Duel Devastator"
+  },
+  {
+    "card_name": "Crystron Smiger",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/124716_in_200x200.jpg",
+    "price": "$0.19",
+    "price_market": "$0.21",
+    "rerity": "Common / Short Print",
+    "set_name": "Invasion: Vengeance"
+  },
+  {
+    "card_name": "Dragonmaid Hospitality ",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/592651_in_200x200.jpg",
+    "price": "$0.20",
+    "price_market": "$0.19",
+    "rerity": "Secret Rare",
+    "set_name": "Quarter Century Bonanza"
+  },
+  {
+    "card_name": "Link Devotee",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/170662_in_200x200.jpg",
+    "price": "$0.19",
+    "price_market": "$0.18",
+    "rerity": "Common / Short Print",
+    "set_name": "Cybernetic Horizon"
+  },
+  {
+    "card_name": "Gimmick Puppet Rouge Doll",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/559183_in_200x200.jpg",
+    "price": "$2.49",
+    "price_market": "$0.05",
+    "rerity": "Common / Short Print",
+    "set_name": "The Infinite Forbidden"
+  },
+  {
+    "card_name": "ZS - Ascended Sage",
+    "image_path": "https://tcgplayer-cdn.tcgplayer.com/product/284979_in_200x200.jpg",
+    "price": "$0.01",
+    "price_market": "$0.16",
+    "rerity": "Prismatic Secret Rare",
+    "set_name": "2022 Tin of the Pharaoh's Gods"
+  }
+]
