@@ -65,24 +65,27 @@ nav ul li:nth-child(2) i {
     margin-left: 6px;
 }
 
-
-
+nav ul li:nth-child(4) {
+    position: relative;
+}
+nav ul li:nth-child(4):hover i{
+    color: #feed00;
+    transition: 0.3s ease;
+}
+nav ul li:nth-child(4) input{
+    height: 30px;
+    width: 150px;
+    border-radius: 5px;
+    border: none;
+    padding-left: 6px;
+    outline: none;
+}
 nav ul li:nth-child(4) i{
-    margin-right: 6px;
-}
-
-nav ul li:nth-child(4) button{
-    height: 35px;
-    padding: 0 15px;                /*[trên dưới][trái phải]*/
-    cursor: pointer;
-    background-color: black;
-    color: white;
-    border: 1px solid #4e4d4d;
-    border-radius: 5px;             /*bo tròn góc*/
-    transition: all 0.3s ease;
-}
-nav ul li:nth-child(4) button:hover{
-    background-color: #4e4d4d;
+    position: absolute;
+    font-size: 15px;
+    right: 15px;
+    color: #000000;
+    line-height: 30px;
 }
 
 nav ul li:nth-child(5) i{
@@ -112,29 +115,29 @@ nav ul li:nth-child(6):hover a{
     transition: 0.3s ease;
 }
 
-nav ul li:nth-child(7) a{
-    text-align: center;
-    font-size: 15px;
-}
-nav ul li:nth-child(7):hover a{
-    color: #feed00;
-    transition: 0.3s ease;
-}
-
-nav ul li:nth-child(8) a{
-    text-align: center;
-    font-size: 15px;
-}
-nav ul li:nth-child(8):hover a{
-    color: #feed00;
-    transition: 0.3s ease;
-}
-
 nav ul li:nth-child(9) a{
     text-align: center;
     font-size: 15px;
 }
 nav ul li:nth-child(9):hover a{
+    color: #feed00;
+    transition: 0.3s ease;
+}
+
+nav ul li:nth-child(11) a{
+    text-align: center;
+    font-size: 15px;
+}
+nav ul li:nth-child(11):hover a{
+    color: #feed00;
+    transition: 0.3s ease;
+}
+
+nav ul li:nth-child(10) a{
+    text-align: center;
+    font-size: 15px;
+}
+nav ul li:nth-child(10):hover a{
     color: #feed00;
     transition: 0.3s ease;
 }
@@ -148,7 +151,7 @@ nav ul li:nth-child(9):hover a{
 
 /*chung cả class menu_bar*/
 .menu_bar {
-    background-color: #fea200;
+    background-color: #fcf700;
     height: 38px;
 }
 
@@ -475,7 +478,7 @@ nav ul li:nth-child(9):hover a{
 }
 /*-----------------slider product--------------------------- 13:10 */
 .slider-product-one-content {
-    background-color: #ffc403;
+    background-color: #f5f5f5;
     padding: 12px;
     
 }
@@ -491,12 +494,20 @@ nav ul li:nth-child(9):hover a{
 .slider-product-one-content-item:hover > img{
     transform: translateY(-20px);
 }
+
+.slider-product-one-content-item:hover {
+    transform: translateY(-2px); /* Hiệu ứng nổi */
+    box-shadow: 3px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
 .slider-product-one-content-item {
-    background-color: #dddddd;
+    background-color: #fafafa;
     padding: 50px 12px 50px;
     border-radius: 5px;
     cursor: pointer;
     width: 19%;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.1); /* Đổ bóng nhẹ */
+    transition: all 0.3s ease;
     
 }
 .slider-product-one-content-item > img{
@@ -540,9 +551,16 @@ nav ul li:nth-child(9):hover a{
 .slider-product-one-content-item-text li:nth-child(2){
     width: 250px;
     transition: all 0.3s ease;
-    font-size: 22px;
     padding-bottom: 12px;
     width: 100%;
+    font-size: 25px;
+    max-height: 90px;
+    display: -webkit-box;            /* Hiển thị dưới dạng khối linh hoạt */
+    -webkit-box-orient: vertical;   /* Đặt hướng khối theo chiều dọc */
+    -webkit-line-clamp: 3;          /* Giới hạn tối đa 3 dòng (2 lần xuống dòng) */
+    overflow: hidden;               /* Ẩn phần văn bản vượt quá giới hạn */
+    text-overflow: ellipsis;        /* Thêm dấu "..." nếu vượt quá giới hạn */
+    line-clamp: 3;
 }
 .slider-product-one-content-item-text li:nth-child(3){
     display: flex;
@@ -632,6 +650,7 @@ nav ul li:nth-child(9):hover a{
     padding-left: 19px;
     padding-right: 19px;
     margin-left: 10px;
+    background-color: white;
     
 }
 .slider-product-one-content-item:nth-child(5n+1){
@@ -680,7 +699,7 @@ nav ul li:nth-child(9):hover a{
 
 
 
-/*------------------------------ Giỏ hàng (Cart Form) */
+/*------------------------------ Giỏ hàng (Cart Form)----------------------------------------------------------------- */
 /* Giỏ hàng (Cart Form) */
 .cart-form {
     position: fixed;
@@ -861,4 +880,166 @@ nav ul li:nth-child(9):hover a{
 }
 .tit{
     text-align: center;
+}
+
+.lazy {
+    display: block; /* Hoặc inline-block, tùy thuộc vào ngữ cảnh */
+    min-height: 50px; /* Đặt chiều cao tối thiểu để tránh nhấp nháy khi nội dung tải */
+    background-color: #f0f0f0; /* Màu nền tạm thời khi hình chưa tải */
+    background-size: cover; /* Kích thước nền */
+    background-position: center; /* Định vị trí nền */
+  }
+  
+  .lazy.is-loaded {
+    background-color: transparent; /* Xóa màu nền khi đã tải xong */
+    animation: fade-in 0.5s ease-in-out; /* Hiệu ứng mờ dần khi ảnh tải xong */
+  }
+  
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+.submenu li{
+    cursor: pointer;
+  }
+.submenu li:hover span{
+    color:#feed00;
+}
+
+
+/*lich su don hang*/
+#order-history {
+    display: none;
+    transition: all 0.3s ease;
+}
+
+#order-history.active {
+    display: block;
+}
+/* Toàn bộ khu vực lịch sử đơn hàng */
+#order-history {
+    position: fixed; /* Cố định lịch sử đơn hàng trên màn hình */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6); /* Nền mờ */
+    display: none; /* Mặc định ẩn */
+    z-index: 1000; /* Luôn trên các phần tử khác */
+    justify-content: center;
+    align-items: center;
+}
+
+/* Nội dung lịch sử đơn hàng */
+#order-history .history-content {
+    background-color: white; /* Màu nền */
+    width: 80%;
+    max-width: 800px;
+    max-height: 90%;
+    overflow: hidden;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* Đổ bóng */
+    position: sticky; /* Để định vị nút đóng */
+}
+
+/* Tiêu đề */
+#order-history .history-content h2 {
+    
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd; /* Gạch chân */
+    padding-bottom: 40px;
+    margin-top: 10px;
+    
+}
+
+/* Đơn hàng */
+.order-item {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Đổ bóng nhẹ */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.order-item:hover {
+    transform: translateY(-5px); /* Nổi lên khi di chuột */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Thông tin đơn hàng */
+.order-item h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #0e73d8;
+}
+
+.order-item p {
+    font-size: 16px;
+    margin: 5px 0;
+    color: #555;
+}
+
+.order-item ul {
+    display: block;
+    list-style: none;
+    padding: 0;
+}
+
+.order-item ul li {
+    display: block;
+    justify-content: space-between;
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+/* Nút đóng */
+#order-history .close-btn {
+    position: sticky;
+    right: 10px;
+    left: 650px;
+    background-color: #f51212;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    
+}
+
+#order-history .close-btn:hover {
+    background-color: #cc1010;
+}
+
+#order-history-container {
+    height: 700px;
+    overflow-y: scroll;
+    margin-bottom: 100px;
+}
+
+nav ul li:nth-child(7) button{
+    height: 35px;
+    padding: 0 15px;                /*[trên dưới][trái phải]*/
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: 1px solid #4e4d4d;
+    border-radius: 5px;             /*bo tròn góc*/
+    transition: all 0.3s ease;
+}
+nav ul li:nth-child(7) button:hover{
+    background-color: #4e4d4d;
 }
