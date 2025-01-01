@@ -83,7 +83,7 @@
                 
                            
             <li><a href="https://www.youtube.com/playlist?list=PL_C7TzOfm0F0DP_S_QwJVArshCLelBQNs">Luật chơi</a></li>
-            <li><a href="">Cộng đồng</a></li>
+            <li><button id="community-btn">Cộng đồng</button></li>
             <li><a href="">Liên hệ và hỏi dáp</a></li>
         </ul>
     </div>
@@ -256,6 +256,24 @@
         </div>
     </div>
 </section>
+
+
+<section id="community-section" class="container" style="display: none;">
+    <h2>Cộng Đồng</h2>
+    <div id="post-form">
+        <h3>Đăng bài mới</h3>
+        <form>
+            <input type="text" id="post-title" placeholder="Tiêu đề bài viết" required>
+            <textarea id="post-content" placeholder="Nội dung bài viết" rows="4" required></textarea>
+            <button type="button" id="post-submit">Đăng bài</button>
+        </form>
+    </div>
+    <div id="post-list">
+        <h3>Bài viết gần đây</h3>
+        <!-- Danh sách bài viết sẽ được render tại đây -->
+    </div>
+</section>
+
 
 
 
