@@ -26,6 +26,15 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
   
+
+  function showToast(message, type = 'success') {
+    const toast = document.createElement('div');
+    toast.className = `toast toast-${type}`;
+    toast.textContent = message;
+    document.body.appendChild(toast);
+
+    setTimeout(() => toast.remove(), 3000);
+}
 // on off address-------------------------------------------------------------
 const addressof = document.querySelector('#address-form')
 //console.log(addressof)
@@ -205,7 +214,7 @@ if (addToCartButtons) {
                     marketPrice: productDiv.querySelector('li:nth-child(6)').innerText,
                 };
                 cartItems.push(product);
-                //alert(`${product.name} đã được thêm vào giỏ hàng!`);
+                showToast("Hàng đã được thêm vào giỏ hàng!");
             } else {
                 console.error("Không tìm thấy thông tin sản phẩm.");
             }
@@ -717,9 +726,11 @@ document.getElementById('confirm-adr').addEventListener('click', function (e) {
         
         document.querySelector('.address-form').style.display = 'none';
     } else {
-        alert("Vui lòng điền đầy đủ thông tin địa chỉ!");
+        showToast("Vui lòng điền đầy đủ thông tin địa chỉ!");
     }
 });
+
+
 
 
 
@@ -730,13 +741,14 @@ let orderHistory = JSON.parse(localStorage.getItem('orderHistory')) || [];
 document.getElementById('confirm-btn').addEventListener('click', function () {
     // Kiểm tra nếu địa chỉ đã được lưu
     if (Object.keys(addressInfo).length === 0) {
-        alert("Vui lòng nhập địa chỉ trước khi xác nhận!");
+        // Gọi hàm khi cần
+        showToast("Vui lòng nhập địa chỉ trước khi xác nhận!");
         return;
     }
 
     // Kiểm tra nếu giỏ hàng rỗng
     if (cartItems.length === 0) {
-        alert("Giỏ hàng đang trống!");
+        showToast("Giỏ hàng đang trống!");
         return;
     }
 
@@ -830,7 +842,7 @@ document.getElementById('confirm-btn').addEventListener('click', function () {
     // Làm trống giỏ hàng sau khi mua
     cartItems = [];
     renderCartItems();
-    alert("Hóa đơn đã được lưu vào lịch sử đơn hàng!");
+    showToast("Hóa đơn đã được lưu vào lịch sử đơn hàng!");
 });
 
 // Hiển thị lịch sử đơn hàng
@@ -875,3 +887,94 @@ function renderOrderHistory() {
         historyContainer.appendChild(orderElement);
     });
 }
+
+
+// cộng đồng-------------------------------------------------------
+// Mảng lưu trữ bài viết
+let posts = JSON.parse(localStorage.getItem('communityPosts')) || [];
+
+// Lưu bài viết vào localStorage
+function savePosts() {
+    localStorage.setItem('communityPosts', JSON.stringify(posts));
+}
+
+// Render danh sách bài viết
+function renderPosts() {
+    const postList = document.getElementById('post-list');
+    postList.innerHTML = '<h3>Bài viết gần đây</h3>';
+
+    if (posts.length === 0) {
+        postList.innerHTML += '<p>Chưa có bài viết nào.</p>';
+        return;
+    }
+
+    posts.forEach((post, index) => {
+        const postElement = document.createElement('div');
+        postElement.classList.add('post-item');
+        postElement.innerHTML = `
+            <h4>${post.title}</h4>
+            <p>${post.content}</p>
+            <p class="meta">Đăng bởi: ${post.author} | ${post.date}</p>
+            <button class="comment-btn" data-index="${index}">Bình luận</button>
+            <div class="comments">
+                ${post.comments.map(comment => `<p>${comment}</p>`).join('')}
+            </div>
+        `;
+        postList.appendChild(postElement);
+    });
+}
+
+// Xử lý khi đăng bài mới
+document.getElementById('post-submit').addEventListener('click', () => {
+    const title = document.getElementById('post-title').value.trim();
+    const content = document.getElementById('post-content').value.trim();
+
+    if (title && content) {
+        const newPost = {
+            title,
+            content,
+            author: 'Người dùng',
+            date: new Date().toLocaleString('vi-VN'),
+            comments: [],
+        };
+        posts.push(newPost);
+        savePosts();
+        renderPosts();
+
+        // Reset form
+        document.getElementById('post-title').value = '';
+        document.getElementById('post-content').value = '';
+    } else {
+        alert('Vui lòng nhập đầy đủ tiêu đề và nội dung!');
+    }
+});
+
+// Xử lý bình luận
+document.addEventListener('click', (e) => {
+    if (e.target && e.target.classList.contains('comment-btn')) {
+        const index = e.target.dataset.index;
+        const comment = prompt('Nhập bình luận của bạn:');
+        if (comment) {
+            posts[index].comments.push(comment);
+            savePosts();
+            renderPosts();
+        }
+    }
+});
+
+// Render bài viết khi tải trang
+document.addEventListener('DOMContentLoaded', renderPosts);
+
+document.getElementById('community-btn').addEventListener('click', () => {
+    const communitySection = document.getElementById('community-section');
+    const isVisible = communitySection.style.display === 'block';
+
+    // Ẩn hoặc hiển thị mục Cộng đồng
+    communitySection.style.display = isVisible ? 'none' : 'block';
+
+    // Cuộn đến mục Cộng đồng khi mở
+    if (!isVisible) {
+        communitySection.scrollIntoView({ behavior: 'smooth' });
+    }
+});
+
