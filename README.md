@@ -86,11 +86,12 @@ Welcome to the **Yu-Gi-Oh! E-commerce Platform** repository! This project is a f
 ## Project Structure
 
 ```
-├── index.html        # Main HTML file
+├── Yugioh-Web.html   # Main HTML file
 ├── style.css         # Styling for the platform
 ├── script.js         # JavaScript for interactivity
 ├── /images           # Product images and UI icons
-├── /data             # Mock database in JSON format
+├── /data2.json       # Mock database in JSON format (use for displaying)
+├── /data2 copy.json  # Mock database in JSON format (use for searching)
 └── README.md         # Project documentation
 ```
 
@@ -98,9 +99,7 @@ Welcome to the **Yu-Gi-Oh! E-commerce Platform** repository! This project is a f
 
 Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+---
 
 ### Suggestions for Improvement
 
@@ -208,17 +207,14 @@ Chào mừng bạn đến với kho lưu trữ **Nền Tảng Thương Mại Đi
 ├── style.css         # Tệp CSS cho giao diện
 ├── script.js         # JavaScript cho tính năng động
 ├── /images           # Hình ảnh sản phẩm và biểu tượng giao diện
-├── /data             # Cơ sở dữ liệu giả lập ở định dạng JSON
+├── /data2.json       # Cơ sở dữ liệu giả lập ở định dạng JSON (trưng bày)
+├── /data2 copy.json  # Cơ sở dữ liệu giả lập ở định dạng JSON (tìm kiếm)
 └── README.md         # Tài liệu của dự án
 ```
 
 ## Đóng Góp
 
 Rất hoan nghênh các đóng góp! Nếu bạn tìm thấy lỗi hoặc có yêu cầu tính năng mới, vui lòng mở một vấn đề hoặc gửi một yêu cầu hợp nhất.
-
-## Giấy Phép
-
-Dự án này được cấp phép theo giấy phép MIT. Xem tệp `LICENSE` để biết thêm chi tiết.
 
 ---
 
