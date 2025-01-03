@@ -102,12 +102,20 @@ Contributions are welcome! If you find a bug or have a feature request, please o
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
+### Suggestions for Improvement
+
+**a.** Add unit tests for JavaScript functions to ensure reliability.  
+**b.** Enhance accessibility features, such as ARIA roles and keyboard navigation.
+
+
 ---
 
 
 Dưới đây là phiên bản dịch sang tiếng Việt của file README:
 
+
 ---
+
 
 # Nền Tảng Thương Mại Điện Tử Yu-Gi-Oh!
 
@@ -218,8 +226,3 @@ Dự án này được cấp phép theo giấy phép MIT. Xem tệp `LICENSE` đ
 
 **a.** Thêm các bài kiểm tra đơn vị cho các chức năng JavaScript để đảm bảo độ tin cậy.  
 **b.** Tăng cường các tính năng hỗ trợ truy cập, như vai trò ARIA và điều hướng bằng bàn phím.  
-
-### Suggestions for Improvement
-
-**a.** Add unit tests for JavaScript functions to ensure reliability.  
-**b.** Enhance accessibility features, such as ARIA roles and keyboard navigation.
