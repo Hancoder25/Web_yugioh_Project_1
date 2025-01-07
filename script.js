@@ -542,6 +542,8 @@ document.getElementById('Quarter Century Secret Rare').addEventListener('click',
                 `;
                 contentItems2.insertAdjacentHTML('beforeend', itemHTML2);
             });
+
+            
         })
         .catch(error => {
             console.error('Lỗi khi tải dữ liệu:', error);
@@ -700,7 +702,9 @@ leftbtn2.addEventListener("click", function () {
 });
 function updateSlider() {
     const sliderContainer = document.querySelector(".slider-product-one-content-items");
+    sliderContainer.style.transition = "transform 0.3s ease"; // Thêm hiệu ứng chuyển động
     sliderContainer.style.transform = `translateX(-${index2 * 100}%)`;
+    
 }
 
 
@@ -977,4 +981,136 @@ document.getElementById('community-btn').addEventListener('click', () => {
         communitySection.scrollIntoView({ behavior: 'smooth' });
     }
 });
+
+// hỏi đáp------------------------------
+// Mảng lưu trữ câu hỏi
+let questions = JSON.parse(localStorage.getItem('questions')) || [];
+
+// Lưu câu hỏi vào localStorage
+function saveQuestions() {
+    localStorage.setItem('questions', JSON.stringify(questions));
+}
+
+// Render danh sách câu hỏi
+function renderQuestions() {
+    const contactList = document.getElementById('contact-list');
+    contactList.innerHTML = '<h3>Câu hỏi đã nhận</h3>';
+
+    if (questions.length === 0) {
+        contactList.innerHTML += '<p>Chưa có câu hỏi nào.</p>';
+        return;
+    }
+
+    questions.forEach((question, index) => {
+        const questionElement = document.createElement('div');
+        questionElement.classList.add('question-item');
+        questionElement.innerHTML = `
+            <h4>${question.name}</h4>
+            <p>${question.message}</p>
+            <p class="meta">Email: ${question.email} | Ngày: ${question.date}</p>
+            <button class="delete-btn" data-index="${index}">Xóa</button>
+        `;
+        contactList.appendChild(questionElement);
+    });
+}
+
+// Xử lý khi gửi câu hỏi
+document.getElementById('contact-submit').addEventListener('click', () => {
+    const name = document.getElementById('contact-name').value.trim();
+    const email = document.getElementById('contact-email').value.trim();
+    const message = document.getElementById('contact-message').value.trim();
+
+    if (name && email && message) {
+        const newQuestion = {
+            name,
+            email,
+            message,
+            date: new Date().toLocaleString('vi-VN'),
+        };
+
+        questions.push(newQuestion);
+        saveQuestions();
+        renderQuestions();
+
+        // Reset form và thông báo
+        document.getElementById('contact-name').value = '';
+        document.getElementById('contact-email').value = '';
+        document.getElementById('contact-message').value = '';
+        alert('Câu hỏi của bạn đã được gửi thành công!');
+    } else {
+        alert('Vui lòng điền đầy đủ thông tin!');
+    }
+});
+
+// Xử lý xóa câu hỏi
+document.addEventListener('click', (e) => {
+    if (e.target && e.target.classList.contains('delete-btn')) {
+        const index = e.target.dataset.index;
+        questions.splice(index, 1);
+        saveQuestions();
+        renderQuestions();
+    }
+});
+
+// Hiển thị câu hỏi khi tải trang
+document.addEventListener('DOMContentLoaded', renderQuestions);
+
+document.getElementById('qa-btn').addEventListener('click', () => {
+    const communitySection = document.getElementById('contact-section');
+    const isVisible = communitySection.style.display === 'block';
+
+    // Ẩn hoặc hiển thị mục Hỏi đáp
+    communitySection.style.display = isVisible ? 'none' : 'block';
+
+    // Cuộn đến mục hỏi đáp khi mở
+    if (!isVisible) {
+        communitySection.scrollIntoView({ behavior: 'smooth' });
+    }
+});
+//hover vào ảnh----------------------------------------------------
+document.addEventListener('DOMContentLoaded', () => {
+    const overlay = document.getElementById('productOverlay');
+    const overlayImage = overlay.querySelector('img');
+    const contentItems = document.querySelector('.slider-product-one-content-items'); // Phần tử cha
+
+    // Lắng nghe sự kiện trên phần tử cha
+    contentItems.addEventListener('mouseover', (event) => {
+        if (event.target.tagName === 'IMG') { // Kiểm tra nếu phần tử là ảnh
+            const imgSrc = event.target.getAttribute('src');
+            overlayImage.setAttribute('src', imgSrc);
+            overlay.classList.add('active');
+            event.target.classList.add('hovered'); // Thêm lớp hovered cho ảnh gốc
+        }
+    });
+
+    contentItems.addEventListener('mousemove', (event) => {
+        const mouseX = event.clientX;
+        const mouseY = event.clientY;
+        
+        // Cập nhật vị trí của overlay image để ảnh phóng to luôn nằm ở vị trí gần chuột
+        if (mouseX < 840){
+            overlayImage.style.left = `${mouseX + 300}px`;  // Thêm khoảng cách cho ảnh
+            overlayImage.style.top = `${2*mouseY - 400}px`;  // Thêm khoảng cách cho ảnh
+        }
+        else{
+            overlayImage.style.left = `${mouseX - 450}px`;  // Thêm khoảng cách cho ảnh
+            overlayImage.style.top = `${2*mouseY - 400}px`;  // Thêm khoảng cách cho ảnh
+        }
+    });
+
+    contentItems.addEventListener('mouseout', (event) => {
+        if (event.target.tagName === 'IMG') {
+            overlay.classList.remove('active');
+            event.target.classList.remove('hovered'); // Xóa lớp hovered khi chuột ra ngoài
+        }
+    });
+
+    overlay.addEventListener('click', () => {
+        overlay.classList.remove('active');
+    });
+});
+
+
+
+
 
