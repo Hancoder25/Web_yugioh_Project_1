@@ -16,7 +16,7 @@
 </head>
 <body>
     <header>
-        <img src="https://cf.shopee.vn/file/vn-11134258-7r98o-lylx97r9vezl4e">
+        <img id="prbanner" src="image/banner.webp">
     </header>
 
 <nav>
@@ -84,7 +84,7 @@
                            
             <li><a href="https://www.youtube.com/playlist?list=PL_C7TzOfm0F0DP_S_QwJVArshCLelBQNs">Luật chơi</a></li>
             <li><button id="community-btn">Cộng đồng</button></li>
-            <li><a href="">Liên hệ và hỏi dáp</a></li>
+            <li><button id="qa-btn">Liên hệ và hỏi đáp</button></li>
         </ul>
     </div>
 </nav>
@@ -198,12 +198,15 @@
     <div class="container">
         <div class="slider-content">
             <div class="slider-content-left">
+                <div class="slider-content-left-header">
+                    
+                </div>
                 <div class="slider-content-left-top-container">
                     <div class="slider-content-left-top">
-                        <a href=""><img src="image/img_slider_top.jpg" alt=""></a>
-                        <a href=""><img src="image/img_slider_top.jpg" alt=""></a>
-                        <a href=""><img src="image/img_slider_top.jpg" alt=""></a>
-                        <a href=""><img src="image/img_slider_top.jpg" alt=""></a>
+                        <a href=""><img src="image/img1_slider_top.jpg" alt=""></a>
+                        <a href=""><img src="image/img2_slider_top.jpg" alt=""></a>
+                        <a href=""><img src="image/img3_slider_top.jpg" alt=""></a>
+                        <a href=""><img src="image/img4_slider_top.jpg" alt=""></a>
                         <a href=""><img src="image/img_slider_top.jpg" alt=""></a>
 
                     </div>
@@ -213,28 +216,29 @@
                     </div>
                 </div>
                 <div class="slider-content-left-bottom">
-                    <li class="active">Tiêu đề 1</li>
-                    <li>Tiêu đề 2</li>
-                    <li>Tiêu đề 3</li>
-                    <li>Tiêu đề 4</li>
-                    <li>Tiêu đề 5</li>
+                    <li class="active">Quái thú mạnh mẽ</li>
+                    <li>Quái thú quý hiếm</li>
+                    <li>Cuộc chiến đỉnh cao</li>
+                    <li>Cộng đồng đông đảo</li>
+                    <li>Cuộc chiến tình bạn</li>
                 </div>
             </div>
             <div class="slider-content-right">
                 <li><a href=""><img src="image/img1_slider_right.jpg" alt=""></a></li>
-                <li><a href=""><img src="image/img1_slider_right.jpg" alt=""></a></li>
-                <li><a href=""><img src="image/img1_slider_right.jpg" alt=""></a></li>
-                <li><a href=""><img src="image/img1_slider_right.jpg" alt=""></a></li>
+                <li><a href=""><img src="image/img2_slider_right.jpg" alt=""></a></li>
+                <li><a href=""><img src="image/img3_slider_right.jpg" alt=""></a></li>
+                <li><a href=""><img src="image/img4_slider_right.jpg" alt=""></a></li>
             </div>
         </div>
     </div>
  </section>
 <section class="banner-one">
     <div class="container">
-        <img src="image/banner 1.jpg" style="width: 100%; height: 100px;">
+        <img id="banner" src="image/banner.png">
     </div>
 </section>
 <!-----------------slider product---------------------------*/ -->
+
 <section class="slider-product-one">
     <div class="container">
         <div class="slider-product-one-content">
@@ -246,7 +250,6 @@
                     
                     <div class="slider-product-one-content-items">
                     </div>
-                </div>
 
                 <div class="slider-product-one-content-btn">
                     <i class="fas fa-chevron-left fa-chevron-left2"></i>
@@ -254,6 +257,12 @@
                 </div>
             </div>
         </div>
+    </div>
+</section>
+
+<section class="banner-one">
+    <div class="container">
+        <img id="banner" src="image/banner.png">
     </div>
 </section>
 
@@ -270,7 +279,25 @@
     </div>
     <div id="post-list">
         <h3>Bài viết gần đây</h3>
-        <!-- Danh sách bài viết sẽ được render tại đây -->
+        
+    </div>
+</section>
+
+
+<section id="contact-section" class="container" style="display: none;" >
+    <h2>Liên hệ và Hỏi đáp</h2>
+    <div id="contact-form">
+        <h3>Gửi câu hỏi của bạn</h3>
+        <form>
+            <input type="text" id="contact-name" placeholder="Tên của bạn" required>
+            <input type="email" id="contact-email" placeholder="Email của bạn" required>
+            <textarea id="contact-message" placeholder="Câu hỏi hoặc phản hồi" rows="4" required></textarea>
+            <button type="button" id="contact-submit">Gửi</button>
+        </form>
+    </div>
+    <div id="contact-list">
+        <h3>Câu hỏi đã nhận</h3>
+        
     </div>
 </section>
 
@@ -338,5 +365,31 @@ function generateStars(rating) {
 </script>-->
 
 <script src="script.js"></script>
+
+<footer id="footer" >
+    <div class="footer-column footer-logo">
+        <img src="image/logoshop.png" alt="Logo Shop">
+    </div>
+    <div class="footer-column footer-about">
+        <h3>Giới thiệu</h3>
+        <p>Chào mừng đến với Yugi-HH Shop! Chúng tôi chuyên cung cấp các sản phẩm Yu-Gi-Oh! chính hãng, bao gồm lá bài, bộ bài, và phụ kiện chơi bài. Cam kết chất lượng và hỗ trợ tận tâm.</p>
+    </div>
+    <div class="footer-column footer-contact">
+        <h3>Thông tin liên hệ</h3>
+        <ul>
+            <li><strong>Email:</strong> <a href="mailto:example@gmail.com">example@gmail.com</a></li>
+            <li><strong>Số điện thoại:</strong> <a href="tel:+84123456789">+84 123 456 789</a></li>
+            <li><strong>Facebook:</strong> <a href="https://www.facebook.com/profile.php?id=100033056464895" target="_blank">Trần Hoàn</a></li>
+            <li><strong>Zalo:</strong> <a href="https://zalo.me/yourzalo" target="_blank">zalo.me/yourzalo</a></li>
+            <li><strong>Địa chỉ:</strong> 123 Đường ABC, Quận X, Thành phố Y</li>
+        </ul>
+    </div>
+</footer>
+
+
+
+<div class="product-overlay" id="productOverlay">
+    <img src="" alt="Phóng to sản phẩm">
+</div>
 </body>
 </html>
