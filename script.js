@@ -169,7 +169,7 @@ return starsHTML;
 
 /* searching------------------------------------------------ */
 
-
+const displaySectionn = document.getElementById('displaySection');
 
 
 // on off cart-------------------------------------------------------------
@@ -302,6 +302,7 @@ document.getElementById('searchButton').addEventListener('click', function () {
     // Lấy giá trị từ ô input
     const searchValue2 = document.getElementById('searchInput').value;
     let imageNameFilter = searchValue2.trim(); // Loại bỏ khoảng trắng thừa
+    displaySectionn.scrollIntoView({ behavior: 'smooth' });
 
     if (imageNameFilter !== '') {  // Kiểm tra nếu người dùng đã nhập dữ liệu
         // Gọi API và lọc dữ liệu sau khi nhận giá trị tìm kiếm
@@ -343,12 +344,14 @@ document.getElementById('searchButton').addEventListener('click', function () {
             });
         })
         .catch(error => console.error('Error fetching data:', error));
+        
     } else {
         console.log('Vui lòng nhập tên lá bài vào ô tìm kiếm.');
     }
 });
 
 //search by rarity--------------------------------------------------------
+
 document.getElementById('Rare').addEventListener('click', function () {
     console.log("Đã nhận ấn vào rare");
 
@@ -396,6 +399,7 @@ document.getElementById('Rare').addEventListener('click', function () {
         .catch(error => {
             console.error('Lỗi khi tải dữ liệu:', error);
         });
+        displaySectionn.scrollIntoView({ behavior: 'smooth' });
     }
 });
 
@@ -446,6 +450,7 @@ document.getElementById('Ultra Rare').addEventListener('click', function () {
         .catch(error => {
             console.error('Lỗi khi tải dữ liệu:', error);
         });
+        displaySectionn.scrollIntoView({ behavior: 'smooth' });
     }
 });
 
@@ -496,6 +501,7 @@ document.getElementById('Super Rare').addEventListener('click', function () {
         .catch(error => {
             console.error('Lỗi khi tải dữ liệu:', error);
         });
+        displaySectionn.scrollIntoView({ behavior: 'smooth' });
     }
 });
 
@@ -548,6 +554,7 @@ document.getElementById('Quarter Century Secret Rare').addEventListener('click',
         .catch(error => {
             console.error('Lỗi khi tải dữ liệu:', error);
         });
+        displaySectionn.scrollIntoView({ behavior: 'smooth' });
     }
 });
 
@@ -598,6 +605,7 @@ document.getElementById('Common / Short Print').addEventListener('click', functi
         .catch(error => {
             console.error('Lỗi khi tải dữ liệu:', error);
         });
+        displaySectionn.scrollIntoView({ behavior: 'smooth' });
     }
 });
 
@@ -648,6 +656,7 @@ document.getElementById('Platinum Secret Rare').addEventListener('click', functi
         .catch(error => {
             console.error('Lỗi khi tải dữ liệu:', error);
         });
+        displaySectionn.scrollIntoView({ behavior: 'smooth' });
     }
 });
 
@@ -895,11 +904,11 @@ function renderOrderHistory() {
 
 // cộng đồng-------------------------------------------------------
 // Mảng lưu trữ bài viết
-let posts = JSON.parse(localStorage.getItem('communityPosts')) || [];
+let posts = JSON.parse(localStorage.getItem('communityPosts2')) || [];
 
 // Lưu bài viết vào localStorage
 function savePosts() {
-    localStorage.setItem('communityPosts', JSON.stringify(posts));
+    localStorage.setItem('communityPosts2', JSON.stringify(posts));
 }
 
 // Render danh sách bài viết
@@ -1110,6 +1119,23 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
+//homebtn-------------------------------------
+// Lấy phần tử nút
+let backToTopButton = document.getElementById("backToTop");
+
+// Khi người dùng cuộn xuống 20px, hiển thị nút
+window.onscroll = function () {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    backToTopButton.style.display = "block";
+  } else {
+    backToTopButton.style.display = "none";
+  }
+};
+
+// Khi nhấn nút, cuộn lên đầu trang
+backToTopButton.onclick = function () {
+  window.scrollTo({ top: 0, behavior: "smooth" });
+};
 
 
 
