@@ -1434,7 +1434,28 @@ body{
     z-index: 101;
 }
 
-
+/*homebtn---------------------*/
+#backToTop {
+    display: none; /* Ẩn nút mặc định */
+    position: fixed; /* Cố định nút ở vị trí trên màn hình */
+    width: 50px;
+    height: 50px;
+    bottom: 150px; /* Cách đáy 20px */
+    right: 50px; /* Cách phải 20px */
+    z-index: 9; /* Đảm bảo nút nằm trên các thành phần khác */
+    background-color: #007bff; /* Màu nền */
+    color: white; /* Màu chữ */
+    border: none; /* Không viền */
+    border-radius: 100%; /* Bo góc */
+    padding: 10px 15px; /* Khoảng cách bên trong */
+    cursor: pointer; /* Đổi con trỏ chuột */
+    font-size: 25px; /* Kích thước chữ */
+  }
+  
+  #backToTop:hover {
+    background-color: #acacac; /* Đổi màu khi rê chuột */
+  }
+  
 
 
 
